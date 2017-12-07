@@ -1,0 +1,2139 @@
+Around the hell or world
+in the World 777
+Вокруг Мира ^^^ Ира
+вокРуг Света зА 180 дней!
+Around the hell or world
+in the World 777
+Вокруг Мира ^^^ Ира
+вокРуг Света зА 180 дней!
+    Clashes over Jerusalem decision
+    Palestinian demonstrators clash with Israeli troops during protests in Ramallah on December 7.
+    Live updates
+    Protests in Gaza and West Bank | Hamas calls for new intifada | Trump recognized Jerusalem as Israel's capital
+    Ramallah: Reporters flee as tear gas fired at protesters
+    Trump's Jerusalem decision: How the world reacted
+    Analysis: The consequences of Trump keeping promises
+    Big deal: Why Jerusalem declaration is so controversial
+    Speech pattern: Did President Trump slur his words?
+        Clashes over Jerusalem decision
+    Palestinian demonstrators clash with Israeli troops during protests in Ramallah on December 7.
+    Live updates
+    Protests in Gaza and West Bank | Hamas calls for new intifada | Trump recognized Jerusalem as Israel's capital
+    Ramallah: Reporters flee as tear gas fired at protesters
+    Trump's Jerusalem decision: How the world reacted
+    Analysis: The consequences of Trump keeping promises
+    Big deal: Why Jerusalem declaration is so controversial
+    Speech pattern: Did President Trump slur his words?
+
+    Must-reads
+    epaselect epa06372496 A Los Angeles County Fire helicopter flies over during the &#39;Skirball Fire&#39; which began early morning in Bel-Air, California, USA, 06 December 2017. An outbreak of several fires North of Los Angeles has occurred as one of the strongest Santa Ana winds forecast of the season is ongoing and expected to last several days. EPA-EFE/JOHN CETRINO
+    Bel-Air is burning: Firefighters battle unprecedented blaze
+    cfp italy exploited migrants_00030120.jpg
+    'Ghettos' and gangmasters: Exploitation in Italy's tomato fields
+
+    Top stories
+    WHISTLER, BC - FEBRUARY 20: Bronze medalist Lindsey Vonn of the United States celebrates with the American flag after the women&#39;s alpine skiing Super-G on day nine of the Vancouver 2010 Winter Olympics at Whistler Creekside on February 20, 2010 in Whistler, Canada. (Photo by Shaun Botterill/Getty Images)
+    Vonn: I won't be representing Trump at Olympics
+    Bitcoin breaks fourth big barrier in 2 days
+    Why is bitcoin's value skyrocketing?
+    Australia legalizes same-sex marriage
+    Singing in parliament after same-sex vote
+    Al Franken to speak amid calls to resign
+    N Korean sanctions violated by 49 nations
+    'Open question' if US can join Olympics
+    Rabbit jumps into wildfires, man panics
+
+    Around the world
+    Mystery solved? $450M Da Vinci is heading to UAE
+    Key questions in Niger ambush probe
+    Officer who developed PTSD after Pulse massacre to lose job
+    Dictator's stolen cash seized in Switzerland
+    Key US State Dept posts lie empty
+    3.6M-year-old human ancestor unveiled
+    Whistleblower: Flynn said Russia sanctions would be 'ripped up'
+
+    Featured
+
+
+TM Feed
+Хабрахабр
+Geektimes
+Тостер
+Мой круг
+Фрилансим
+Мегапосты: Да Винчи-конструкторГеймификация банкаФорум Azure Stack
+
+    Публикации
+    Пользователи
+    Хабы
+    Компании
+    Песочница
+
+maxpy
+вчера в 12:30
+Pygest #19. Релизы, статьи, интересные проекты, пакеты и библиотеки из мира Python [20 ноября 2017 — 5 декабря 2017]
+
+    Читальный зал,
+    Учебный процесс в IT,
+    Python
+
+image Всем привет! Это уже девятнадцатый выпуск дайджеста на Хабрахабр о новостях из мира Python.
+
+Присылайте свои интересные события из мира Python. Вместе мы сделаем Python еще лучше:)
+
+Итак, поехали!
+
+
+
+Новости
+
+IronPython присоединяется к .NET Foundation
+
+Python обогнал R и стал лидером в машинном обучении и data science
+
+PSF выделил грант в размере 170 000 долларов для улучшения PyPI
+
+Статьи и учебные материалы
+
+Python для анализа данных. Подробный обзор
+Обзор книги «Python for Data Analysis (2nd edition)»
+
+Использование Python-модуля Pathlib
+Речь пойдет о модуле Pathlib, который упрощает взаимодействие с файловой системой
+
+3 раза производительнее чем Flask приложения
+Знакомимся с framework Quart
+
+Глубокое погружение в Python, TensorFlow и Keras
+
+Как изучить Python разработчику R
+Пост для разработчиков R, которые хотели бы присоединиться в мир Python
+
+Миллион запросов в секунду с Python
+Знакомьтесь! Быстрый, масштабируемый и легкий инструмент для веб-сервиса: Japronto!
+
+Построение видео синтезатора с помощью Python с использованием Pygame
+Если вы еще и меломан, то это статья для Вас!
+
+Использование машинного обучения для предсказания погоды. Часть 2
+Продолжение статьи об использовании машинного обучения для прогнозирования погоды
+
+Построение Python REST API за 5 минут
+Знакомимся с еще одним framework Arrested
+
+Исследование внутреннего мира CPython
+Пост полезен для всех, кто хотел бы узнать о внутреннем мире CPython
+
+10 вопросов о Python, которых задают на собеседованиях, ответы на которых вы должны знать
+Переходим по ссылке). Всем будет интересно и познавательно.
+
+Механизм общения браузера и сервера на языке Python
+Termvsrobo написал статью о взаимодействии браузера с сервером, которая будет полезен всем новичкам и не новичкам. Спасибо!
+
+Релизы
+
+Вышел в свет Django 2.0
+
+PyCharm 2017.3
+
+Интересные проекты, инструменты и библиотеки
+
+deep-image-prior
+Восстановление изображения с помощью нейронных сетей, но без их обучения
+
+WPSploit
+Тестирование на проникновение плагинов WordPress
+
+speeed
+Инструмент похожий на пинг, но измеряет не время ответа, а скорость пакетов
+
+pytudes
+Python программы для практики и демонстрации навыков
+
+websauna
+Веб framework для построения сайтов и сервисов для бизнеса и не только
+
+RenPy
+Движок для создания визуальных романов (новелл)
+
+Toga
+GUI инструмент, нативный для OS
+
+free-python-games
+Коллекция бесплатных игр на Python, предназначенный для изучения и/или просто поиграться
+
+requestium
+Прослойка между Requests и Selenium, предназначенный для автоматизации действий в вебе
+
+cardio
+Библиотека для исследователей сигналов (пульсации) сердца
+
+PythonNet
+Пакет для интеграции Python с .NET Common Language Runtime (CLR)
+
+rectpack
+Набор эвристических алгоритмов для решения задачи о ранце (или задачи о рюкзаке)
+
+Метки:
+
+        python
+        digest
+        события из мира python
+        pygame
+        django
+        django framework
+        pycharm
+        machine learning
+        pandas
+        news
+        cpython
+
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+Читают сейчас
+
+    Ростелеком: чужие счета — это не спам
+    4,2k
+    38
+    Отладка злого бага в рантайме Go
+    1,3k
+    3
+    Когда дворецкий — жертва
+    1,8k
+    11
+    Мастер-класс «Почему Стив Джобс любил шрифты» (Алексей Каптерев)
+    906
+    1
+    GDPR — новые правила обработки персональных данных в Европе для международного IT-рынка
+    6,7k
+    13
+    Инструкция по применению офисного сисадмина в малом бизнесе
+    10k
+    62
+
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+
++13
+
+    4,4k
+    10
+
+5,0
+Карма
+23,2
+Рейтинг
+13
+Подписчики
+maxpy
+Пользователь
+Поделиться публикацией
+
+Похожие публикации
+
+    3 июля в 11:31 Pygest #12. Релизы, статьи, интересные проекты из мира Python [20 июня 2017 — 03 июля 2017]
+    +10 6,7k 50
+    1
+    19 июня в 08:14 Pygest #11. Релизы, статьи, интересные проекты из мира Python [6 июня 2017 — 19 июня 2017]
+    +17 9,3k 55
+    3
+    5 июня в 07:43 Pygest #10. Релизы, статьи, интересные проекты из мира Python [23 мая 2017 — 5 июня 2017]
+    +19 11k 67
+    8
+
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+Комментарии 10
+Отслеживать новые в
+почте
+трекере
+
+    ildarchegg
+    06.12.17 в 13:36
+
+0
+Спасибо, интересные ссылки.
+Ответить
+
+    maxpy
+    06.12.17 в 13:42
+
+0
+Надеюсь, они будут еще и полезными)
+Ответить
+
+    ildarchegg
+    06.12.17 в 13:46
+
++1
+благодаря «Как изучить Python разработчику R» я только что за 10 мин установил анаконду, запустил юпитер нотебук и попробовал себя в роли питониста (сам пишу на R). теперь я знаю пару библиотек, синтаксис и основные типы)
+Ответить
+ildarchegg
+06.12.17 в 13:47
+
+0
+А благодаря «10 вопросов о Python, которых задают на собеседованиях, ответы на которых вы должны знать» узнал, что оказывает питон объектно-ориентированый.
+Ответить
+
+    maxpy
+    06.12.17 в 13:59
+
+0
+
+            Очень рад, что дайджест оказался таким полезным
+            Ответить
+
+Alex320
+06.12.17 в 15:08
+
+0
+Предлагаю включить github.com/secnot/rectpack. Очень интересная вещь
+Ответить
+
+    maxpy
+    07.12.17 в 06:31
+
+0
+Добавил. Спасибо за ссылку!
+Ответить
+trapwalker
+07.12.17 в 12:27
+
+0
+
+    Название, черт подери, навевает пошлые мысли. Надо было вообще, rectpocket назвать, но тема чрезвычайно полезная.
+    Ответить
+
+Andylloyds
+07.12.17 в 06:22
+
+0
+
+Странно как в дайджест попал Japronto, уже скоро год как он навели шумихи и стих, хотя последний коммит был месяц назад :)
+
+Кто-нибудь его использовал дальше чем "Hello world" ?
+Ответить
+Termvsrobo
+07.12.17 в 06:31
+
+0
+
+    Надо его попробовать для DDOS на собственном сайте.
+    Ответить
+
+Написать комментарий
+
+Markdown (
+?
+)
+Что обсуждают
+
+    Сейчас
+    Вчера
+    Неделя
+
+    Мастер-класс «Почему Стив Джобс любил шрифты» (Алексей Каптерев)
+    906
+    1
+    Облачные сервисы IBM Connections и Verse: обзор возможностей
+    353
+    2
+    Отладка злого бага в рантайме Go
+    1,3k
+    3
+    Список полезных идей для высоконагруженных сервисов
+    524
+    1
+    Ретроспектива: Heroes of Might & Magic III
+    24,7k
+    50
+
+Интересные публикации
+
+    Мастер-класс «Почему Стив Джобс любил шрифты» (Алексей Каптерев)
+    +18 790 10
+    0
+    Отладка злого бага в рантайме Go
+    +26 1,2k 16
+    2
+    На МКС полным-полно микроорганизмов, опасности для людей пока нет GT
+    +7 1,8k 1
+    5
+    Kotlin Night Moscow — видео, фото, презентации
+    +13 584 6
+    0
+    Когда дворецкий — жертва
+    +17 1,8k 7
+    11
+
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+Fid
+
+    Профиль
+    Трекер
+    Диалоги
+    Настройки
+    ППА
+
+Разделы
+
+    Публикации
+    Хабы
+    Компании
+    Пользователи
+    Песочница
+
+Информация
+
+    О сайте
+    Правила
+    Помощь
+    Соглашение
+    Конфиденциальность
+
+TM Feed
+Хабрахабр
+Geektimes
+Тостер
+Мой круг
+Фрилансим
+Мегапосты:
+
+    Публикации
+    Пользователи
+    Хабы
+    Компании
+    Песочница
+
+70,87
+Рейтинг
+Digital Rights Center
+Юридическая помощь в цифровом пространстве
+Temych
+вчера в 17:40
+GDPR — новые правила обработки персональных данных в Европе для международного IT-рынка
+
+    Хранение данных,
+    Законодательство и IT-бизнес,
+    Бизнес-модели,
+    IT-стандарты,
+    Блог компании Digital Rights Center
+
+image
+
+В мае 2018 года Европа переключится на обновлённые правила обработки персональных данных, установленные Общим регламентом по защите данных (Регламент ЕС 2016/679 от 27 апреля 2016 г. или GDPR — General Data Protection Regulation). Данный регламент, имеющий прямое действие во всех 28 странах ЕС, заменит рамочную Директиву о защите персональных данных 95/46/ЕС от 24 октября 1995 года. Важным нюансом GDPR является экстерриториальный принцип действия новых европейских правил обработки персональных данных, поэтому российским компаниям следует внимательно отнестись к ним, если услуги ориентированы на европейский или международный рынок.
+
+Новый регламент предоставляет резидентам ЕС инструменты для полного контроля над своими персональными данными. С мая 2018 года ужесточается ответственность за нарушение правил обработки персональных данных: по GDPR штрафы достигают 20 миллионов евро (около 1,5 млрд руб.) или 4% годового глобального дохода компании. В настоящей статье мы проанализировали новые правила обработки персональных данных в ЕС и сформулировали рекомендации для российских компаний по методам реагирования на GDPR.
+
+Кто в зоне действия GDPR?
+
+GDPR имеет экстерриториальное действие и применяется ко всем компаниям, обрабатывающим персональные данные резидентов и граждан ЕС, независимо от местонахождения такой компании.
+
+Разумеется, филиалы, представительства российских организаций на территории ЕС должны будут соответствовать новым требованиям.
+
+Другую (неочевидную) категорию субъектов рассмотрим на следующем примере:
+Организация базируется в России. Она продает онлайн товары и услуги пользователям, в том числе пользователям из ЕС. Услуги предоставляются пользователям на локальных языках в местных валютах на национальных доменах верхнего уровня стран ЕС (напр., «.de», «.nl» или «.co.uk»). При этом эта организация не производит никаких операций или субподрядчиков непосредственно на территории ЕС.
+
+Должна ли такая организация соблюдать GDPR?
+Да.
+
+Ведь услуги и товары очевидно предлагаются жителям ЕС, потому что:
+
+— услуги/товары адаптированы на местные языки жителей ЕС;
+— услуги/товары оплачиваются в местных валютах ЕС;
+— услуги/товары предоставляются на национальных доменах верхнего уровня стран ЕС.
+
+Это означает, что организации, обрабатывающие персональные данные европейцев в России при реализации онлайн-продаж (например, РЖД, авиакомпании, гостиницы, хостелы и иные), подпадают под действие GDPR и обязаны соблюдать новые европейские правила обработки персональных данных.
+
+Важно отметить, что помимо обработки персональных данных в GDPR используется понятие мониторинга поведения субъектов данных, которое загоняет под действие GDPR ещё одну категорию субъектов. GDPR применяется к организациям, созданным за пределами ЕС, если они (в качестве контролера или процессора) контролируют поведение жителей ЕС (в той мере, в которой такое поведение имеет место в ЕС).
+
+Мониторинг может включать:
+
+— отслеживание резидента ЕС в интернете;
+— использование методов обработки данных для профилирования отдельных лиц, их поведения или их отношения к чему-либо (например, для анализа или прогнозирования личных предпочтений).
+
+Европейский законодатель также разделяет понятия контроллер данных (data controller) и процессор данных (data processor). Контроллер, действуя в качестве капитана судна, несет бОльшую юридическую ответственность, чем процессор, который действует в качестве моряка на судне. По сути контроллеры решают, что происходит с персональными данными и несут ответственность за обработку, а процессоры являются некими “исполнителями”.
+
+Например, облачная система, которой пользуются ваши сотрудники для целей выполнения задач и проектов, где также хранятся персональные данные клиентов, будет являться процессором данных, а вы, соответственно, контроллером.
+
+Что подразумевается под персональными данным в GDPR?
+
+Персональные данные — это любая информация, относящаяся к идентифицированному или идентифицируемому физическому лицу (субъект данных), по которой прямо или косвенно можно его определить. К такой информации относится в том числе имя, данные о местоположении, онлайн идентификатор или один или несколько факторов характерных для физической, физиологической, генетической, умственной, экономической, культурной или социальной идентичности этого физического лица (п. 1 ст. 4). Определение широкое и достаточно четко дает понять, что даже IP адреса также могут быть персональными данными.
+
+Важно отметить, что существуют определенные типы персональных данных, относящиеся к категории особых или конфиденциальных персональных данных. Это информация, раскрывающая: расовое или этническое происхождение, политические взгляды, религиозные или философские убеждения и членство в профсоюзах. Кроме того, к этой группе относятся генетические, биометрические данные, используемые для идентификации физического лица, данные о состоянии здоровья, сведения, касающиеся сексуальной жизни или сексуальной ориентации (ст. 9).
+
+6 принципов обработки данных по GDPR
+
+Общий подход европейцев к обработке персональных данных сформулирован в виде 6 основных принципов:
+
+1) Законность, справедливость и прозрачность. Персональные данные должны обрабатываться законно, справедливо и прозрачно. Любую информацию о целях, методах и объёмах обработки персональных данных следует излагать максимально доступно и просто.
+2) Ограничение цели. Данные должны собираться и использоваться исключительно в тех целях, которые заявлены компанией (онлайн-сервисом).
+3) Минимизация данных. Нельзя собирать личные данные в большем объёме, чем это необходимо для целей обработки.
+4) Точность. Личные данные, которые являются неточными, должны быть удалены или исправлены (по требованию пользователя).
+5) Ограничение хранения. Личные данные должны храниться в форме, которая позволяет идентифицировать субъекты данных на срок не более, чем это необходимо для целей обработки.
+6) Целостность и конфиденциальность. При обработке данных пользователей компании обязаны обеспечить защиту персональных данных от несанкционированной или незаконной обработки, уничтожения и повреждения.
+
+Ключевые требования
+
+Уведомление о случаях нарушения GDPR
+Компании обязаны уведомлять регулирующие органы (а в некоторых случаях и субъектов данных) о любых нарушениях, связанных с персональными данными в течение 72 часов после обнаружения такого нарушения.
+
+Например, недавняя новость о хакерской атаке на Uber — яркий пример нарушения данного правила. Uber сообщил прессе, что хакеры получили доступ к персональным данным 57 миллионов пользователей и водителей спустя целый год. Если бы сейчас действовал GDPR, то избежать высокого штрафа в размере 4% от годового оборота было бы невозможно.
+
+Список национальных регуляторов в области персональных данных по всем странам ЕС приведён тут. Также есть общеевропейский регулятор — Working party 29 или Рабочая группа по статье 29. Однако после вступления GDPR в силу Рабочую группу по статье 29 заменит новый орган — Европейский совет по защите данных (European Data Protection Board — EDPB).
+
+Права субъекта данных (физического лица)
+
+GDPR значительно расширяет права граждан и резидентов ЕС по контролю за их персональными данными. Европейские пользователи имеют право запрашивать подтверждение факта обработки их данных, место и цель обработки, категории обрабатываемых персональных данных, каким третьим лицам персональные данные раскрываются, период, в течение которого данные будут обрабатываться, а также уточнять источник получения организацией персональных данных и требовать их исправления. Более того, пользователь имеет право требовать прекращения обработки своих данных.
+
+В GDPR также предусмотрено право на забвение (right to erasure, right to be forgotten), которое дает европейцам возможность удалять свои личные данные по запросу во избежание их распространения или передачи третьим лицам.
+
+Это не новое право, оно также есть в действующей Директиве. Суд справедливости ЕС (CJEU — Court of Justice of the European Union) в решении по делу Google Spain в 2014 году разъяснил, что субъекты данных имеют право на удаление информации о них из результатов поиска, если она не представляет общественного интереса. Однако, право на забвение распространяется не только на поисковые системы. Любая компания, обрабатывающая данные, должна удалять чьи-либо персональные данные по запросу, если это не противоречит интересам общества или иным фундаментальным правам европейцев.
+
+Например, если вы новостной сервис, то прежде, чем удалять данные, проверьте и убедитесь, что такое удаление не повлияет на свободу слова и на право к доступу информации, гарантированные европейцам статьей 11 Хартии Европейского союза по правам человека.
+
+Право на переносимость данных
+
+Право на переносимость данных (right to data portability) является новацией в правилах обработки данных ЕС, введенное GDPR. Данное право заключается в том, что компании обязаны предоставлять бесплатно электронную копию персональных данных другой компании по требованию самого субъекта персональных данных.
+
+Например, стартап под названием “Солнышко” хочет выйти на рынок с сайтом для обмена социальными медиа, но на рынке уже есть свои гиганты с большой долей рынка. Право на переносимость данных упростит потенциальным клиентам процесс передачи своих данных от одного онлайн-сервиса к другому (без повторного введения одних и тех же данных на разных сайтах).
+
+Другой пример. Субъект данных пользуется сервисом чтения электронных книг “Электронная книжка”. В один прекрасный момент пользователь решает перейти на сервис “Читай онлайн”. В данном случае право на переносимость данных позволяет получить от “Электронной книжки” персональные данные (например, предпочтения в литературе и другие) и передать их другому сервису.
+
+Согласие на обработку
+
+GDPR устанавливает высокие требования в отношении формы получения согласия на обработку данных. Согласие человека на обработку его персональных данных должно быть выражено в форме утверждения или в форме четких активных действий пользователя. Согласие на обработку персональных данных будет недействительно, если у пользователя не было выбора или не было возможности отозвать свое согласие без ущерба для самого себя. Если пользователь дал согласие на обработку своих персональных данных, контроллер должен иметь возможность продемонстрировать это.
+
+Не рекомендуем использовать по умолчанию поля о согласии с уже поставленной галочкой или другие методы получения согласия по умолчанию. Согласие также не может быть выражено в виде молчания или бездействия пользователя. Информация о порядке отзыва согласия на обработку персональных данных должна быть размещена таким образом, чтобы пользователь мог легко её найти.
+
+Особая защита детей
+
+Детские персональные данные заслуживают особой защиты, ведь они менее осведомлены о рисках, последствиях, гарантиях и их правах в отношении обработки персональных данных. Согласие на обработку данных ребенка должно быть авторизовано родителями (или законными представителями ребенка). Возрастной порог для родительской авторизации устанавливается государствами-членами ЕС отдельно (от 13 до 16 лет).
+
+Назначение ответственного за защиту персональных данных
+
+Это требование относится к компаниям, которые осуществляют регулярные и систематические крупномасштабные наблюдения, мониторинг лиц (выше о нем упоминалось); или которые осуществляют крупномасштабную обработку специальных персональных данных, например, медицинские записи или сведения об уголовной судимости.
+
+В любом случае, любая организация может добровольно назначить сотрудника по защите данных для управления процессами обработки данных пользователей и контроля за соблюдением требований GDPR. В таком случае компания должна опубликовать информацию о таком сотруднике, а также направить её национальному регулятору по защите персональных данных соответствующей страны ЕС.
+
+Что делать?
+
+Если вы входите в зону действия нового европейского регламента о защите данных или планируете расширяться и предоставлять услуги и товары в страны ЕС, то рекомендуется провести комплексную оценку применяемых в компании методов и средств обработки персональных данных и привести их в соответствие с новыми правилами GDPR. Следует также пересмотреть политику конфиденциальности и положения об обработке персональных данных пользовательских соглашений (Terms of use) своих сайтов и онлайн-сервисов, ориентированных на европейских потребителей и пользователей. Для соответствия требованиям GDPR необходимо разработать внутренние политики защиты данных, обучать персонал, проводить проверки деятельности по обработке данных, вести документацию по процессам обработки, внедрять меры по встроенной системе конфиденциальности, а также назначить сотрудника ответственного за обработку персональных данных (естественно, с учётом характера и объёмов обрабатываемых персональных данных).
+
+Несмотря на то, что новые требования к обработке персональных данных серьезны, в них есть положительные стороны для внеевропейских игроков: легче придерживаться единого набора правил защиты и обработки данных, чем учитывать национальные нюансы обработки персональных данных каждой отдельной страны ЕС, как это приходилось делать до введения GDPR. Более того, реформа направлена на стимулирование экономического роста путем сокращения расходов и бюрократии для компаний, работающих в ЕС. Соблюдение одного правила вместо 28 (количество стран-членов ЕС) поможет маленьким и развивающимся компаниям выйти на новые рынки. Согласно закону в ряде случаев обязательства изменяются в зависимости от размера бизнеса, природы обрабатываемых данных и иных факторов.
+
+Также следует заранее продумать механизмы реагирования на запросы европейских регуляторов и субъектов персональных данных (пользователей), которые возможны в рамках GDPR (например, об уточнении данных, их удалении, прекращении обработки или передаче другой компании по праву на переносимость данных).
+
+Вывод
+
+GDPR — важнейший законодательный документ, который существенно повышает уровень защиты персональных данных в ЕС и за его пределами. Он требует очень внимательного изучения и соблюдения. Реформа дает ясность и последовательность правил, которые должны применяться в области защиты данных. Она также восстанавливает доверие пользователя-потребителя, что позволяет бизнесу максимально использовать возможности на едином европейском цифровом рынке. Сбор, анализ и перемещение персональных данных по всему миру приобрели огромное экономическое значение. Персональные данные – это, безусловно, “валюта” современной экономики. И если вы осуществляете сбор пользовательских данных в каком-либо виде — за их сохранностью надо внимательно следить, чтобы избежать утечек и возможных манипуляций ими третьими лицами.
+
+image
+
+Метки:
+
+        GDPR
+        персональные данные
+        ЕС
+        защита персональных данных
+        международный рынок
+        идентификация личности
+
++18
+
+    6,8k
+    13
+
+Digital Rights Center 70,87
+Юридическая помощь в цифровом пространстве
+182,5
+Карма
+14,4
+Рейтинг
+49
+Подписчики
+Артем Козлюк Temych
+Интернет-активист, лидер «РосКомСвободы»
+
+    Сайт
+    Facebook
+    Twitter
+    Вконтакте
+    Telegram
+
+Поделиться публикацией
+
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+Похожие публикации
+
+    18 апреля в 15:42 Биткоинофобия питерских судов с блокировкой без потерпевших
+    +30 13,9k 27
+    29
+    6 апреля в 15:26 Где «Кнопка» блокировки?
+    +29 11,7k 16
+    35
+    3 февраля в 13:45 Роскомнадзор за запрет Биткоина в России
+    +36 17,8k 33
+    38
+
+Комментарии 13
+Отслеживать новые в
+почте
+трекере
+
+    T-362
+    06.12.17 в 18:03
+
+0
+
+    В GDPR также предусмотрено право на забвение (right to erasure, right to be forgotten), которое дает европейцам возможность удалять свои личные данные по запросу во избежание их распространения или передачи третьим лицам.
+
+Вот и подвезли пушку для стрельбы по воробьям. Пожалуй это единственный метод заставить пару ЕСовских интернет-магазинов перестать присылать мне физические бумажные каталоги...
+
+Вот интересно будет ли это работать для третьих лиц, потому-что каталоги приходят и на имя прежних жильцов.
+Ответить
+
+    Rambalac
+    07.12.17 в 03:35
+
+0
+
+Это подпадает под точность информации.
+Ответить
+marenkov
+07.12.17 в 12:33
+
+0
+
+    Почтовый адрес — это тоже персональная информация, и в данный момент это ваша персональная информация, поскольку она косвенно указывает на вас. На этом основании вы имеете право требовать ее удалить либо поправить.
+    Ответить
+
+erwins22
+07.12.17 в 09:40
+
+–1
+Ждем введения аналога в России и криков европецев о том, что аналогичный закон нарушает права человека.
+Ответить
+
+    habradante
+    07.12.17 в 10:24
+
+0
+О чем вы? У нас такой уже есть, причем, местами, даже послабее европейского. У нас не заставляют удалять и обеспечивать переносимость.
+Ответить
+
+    erwins22
+    07.12.17 в 13:11
+
+0
+
+        Я как раз об этом. Думаете в Думе не доработают?
+        Ответить
+
+3dcryx
+07.12.17 в 13:05
+
++1
+
+А что будет если ржд, внезапно, забьет на этот закон. Они им штраф выпишут? Примерно как на Украине Путину запрещают в Крым ездить?
+Ответить
+
+    K0styan
+    07.12.17 в 14:24
+
+0
+
+    Если дело дойдет до суда и штрафа, то может быть наложен арест на имущество, находящееся в юрисдикции ЕС. Пройдет поезд границу — и «Поезд дальше не идет, просьба освободить вагоны» )
+    Ответить
+
+mrsweet
+07.12.17 в 13:07
+
+0
+Предусмотрели ли европейские парламентарии централизованный сервис с API под данный законопроект или каждый ресурс выбирает удобный способ реализации пунктов GDPR?
+Ответить
+
+    K0styan
+    07.12.17 в 14:44
+
+0
+А под какие конкретно пункты сервис с API нужен? Кроме переносимости вроде бы ни для чего… Да и тут правильнее формат обмена стандартизовать хотя бы, а сервисы потом уже придумывать.
+Ответить
+hostmaster
+07.12.17 в 16:05
+
+0
+
+    не предусмотрен, как не описано никого способа официальной сертификации.
+    Ответить
+
+teecat
+07.12.17 в 15:19
+
+0
+
+    Общий подход европейцев к обработке персональных данных
+
+
+Там все веселее. Я лично тормознул первый раз на фразе
+
+    Целью обработки персональных данных является служба человечеству
+
+
+линк
+Ответить
+hostmaster
+07.12.17 в 16:20
+
+0
+
+    (Disclaimer: Я читал оригинал) Спасибо, на удивление толковая статья. Основные моменты перечисленные верно. Резюмируя, это в целом бесполезный и безсодержательный документ описывающий в общих чертах "как оно должно бы быть, как нам кажется" однако без конкретных требований. Очень многие моменты оставлены без объяснений. В текущем виде документ не защищает ни кого ни от чего. Если компания небольшая (до 250 сотрудников) и не работает с sensitive personal data (например медицинские записи) то для выполнения GDPR нужно грубо говоря только сайт обновить (утрирую).
+    Ответить
+
+Написать комментарий
+
+Markdown (
+?
+)
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+
+
+Самое читаемое
+
+    Сутки
+    Неделя
+    Месяц
+
+    Двенадцать советов по повышению безопасности Linux
+    +28 14,3k 306
+    65
+    Зачем я купил Mac Mini (Late 2012) накануне 2018 года?
+    +52 34k 88
+    146
+    7 лет работы, 2 млн отрезов и 150 километров чеков: еще немного о надежности железа в современных магазинах
+    +7 6,2k 17
+    29
+    Алгоритмы антиалиасинга в реальном времени
+    +72 9,1k 147
+    9
+    Начало новой эры криптовалют? Биржи CME Group выпускают фьючерс на биткоин
+    +1 6,3k 17
+    4
+
+Интересные публикации
+
+    Мастер-класс «Почему Стив Джобс любил шрифты» (Алексей Каптерев)
+    +18 790 10
+    0
+    Отладка злого бага в рантайме Go
+    +26 1,2k 16
+    2
+    На МКС полным-полно микроорганизмов, опасности для людей пока нет GT
+    +7 1,8k 1
+    5
+    Kotlin Night Moscow — видео, фото, презентации
+    +13 584 6
+    0
+    Когда дворецкий — жертва
+    +17 1,8k 7
+    11
+
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+Fid
+
+    Профиль
+    Трекер
+    Диалоги
+    Настройки
+    ППА
+
+Разделы
+
+    Публикации
+    Хабы
+    Компании
+    Пользователи
+    Песочница
+
+Информация
+
+    О сайте
+    Правила
+    Помощь
+    Соглашение
+    Конфиденциальность
+
+Услуги
+
+    Реклама
+    Тарифы
+    Контент
+    Семинары
+
+Приложения
+© 2006 – 2017 «TM»
+Служба поддержки
+Мобильная версия
+
+
+Услуги
+
+    Реклама
+    Тарифы
+    Контент
+    Семинары
+
+Приложения
+© 2006 – 2017 «TM»
+Служба поддержки
+Мобильная версия
+
+
+    Released April 19, 2016 - The Royal Mail (the UKÕs Post Office service) has released a new set of 10 stamps to celebrate the 90th birthday of Queen Elizabeth. Photographed by Ranald Mackechnie in the summer of 2015 for Royal Mail, the specially commissioned Stamp Sheet features a family portrait of four generations of the House of Windsor: HM The Queen, HRH The Prince of Wales, HRH The Duke of Cambridge and for the first time on a Royal Mail stamp, HRH Prince George of Cambridge. The photograph was taken in the White Drawing Room at Buckingham Palace.
+    Inside the Queen's home
+    Shakhtar Donetsk&#39;s Portuguese manager Paulo Fonseca, wearing a Zorro mask and hat, delivers a press conference after Shakhtar Donetsk won their UEFA Champions League group F football match against Manchester City, at Metalist Stadium in Kharkiv, eastern Ukraine, on December 6, 2017. / AFP PHOTO / Stanislas VEDMID
+    Champions League: Which manager dressed up as Zorro to celebrate?
+    How black market for fish bladders destroyed a town
+
+    Spotlight
+    Mabel Emmanuel, 27, and Henry Stevens, 28, with their son, David.
+    Nigerians return with warning: Avoid Libya
+
+    Take a closer look
+    Architects who are changing the world
+    Jerusalem&#39;s Temple Mount
+    Why Jerusalem's holy sites hold such significance
+    A picture taken on November 3, 2017 shows an aerial view of the ruined castle of La Mothe-Chandeniers, in Les Trois-Moutiers, central western France. Specialized in the rescue of old stones, the crowdfunding site Dartagnans.fr and the association Adopte un chateau launched at the end of October the collective takeover, via internet and by mutual agreement, of the ruined castle of La Mothe-Chandeniers ruins, for 500,000 euros. / AFP PHOTO / GUILLAUME SOUVANT (Photo credit should read GUILLAUME SOUVANT/AFP/Getty Images)
+    Own a piece of French history for $60
+    Michelin Guide Bangkok 2018 - Jay Fai
+    Thai street food joint wins Michelin star
+    sport, fitness, healthy lifestyle and people concept - close up of man with jar and bottle preparing protein shake (Newscom TagID: ipurestockxthree992786.jpg) [Photo via Newscom]
+    Protein powder: Pros and cons
+
+    The UAE has big plans for Mars
+    Tradition meets innovation at Design Miami 2017
+    In Paris, France, anti-loitering spikes could be found on a window edge.
+    Hostile architecture ruining cities?
+    What baby talk sounds like around the world
+
+    Opinion
+    Opinion
+    Jane Merrick: Time sides with women over the misogynist-in-chief
+    President Donald Trump speaks in the Diplomatic Reception Room of the White House, Wednesday, Dec. 6, 2017, in Washington. Trump recognized Jerusalem as Israel&#39;s capital.
+    Alice Stewart: The campaign promise Trump chose to keep
+    WASHINGTON, DC - NOVEMBER 28: (L-R) Sen. John Barrasso (R-WY), Senate Finance Committee Chairman Orrin Hatch (R-UT), Senate Majority Leader Mitch McConnell (R-KY), Sen. John Thune (R-SD) and Senate Majority Whip John Cornyn (R-TX) talk with reporters following the weekly Senate Republican Policy Committee luncheon in the U.S. Capitol November 28, 2017 in Washington, DC. Republicans in the Senate hope to pass their tax cut legislation this week and work with the House of Representatives to get a bill to President Donald Trump before Christmas. (Photo by Chip Somodevilla/Getty Images)
+    Mark Bauerlein: Why Trump is still winning
+    TOPSHOT - US President Donald Trump waits to speak during a memorial service at the Pentagon for the 9/11 terrorist attacks September 11, 2017 in Washington, DC. / AFP PHOTO / Brendan Smialowski (Photo credit should read BRENDAN SMIALOWSKI/AFP/Getty Images)
+    Frida Ghitis: Trump's global credibility is shot
+    European Commission President Jean-Claude Juncker, right, greets British Prime Minister Theresa May prior to a meeting at EU headquarters in Brussels on Monday, Dec. 4, 2017. British Prime Minister Theresa May and EU Commission President Jean-Claude Juncker will hold a power lunch on Monday, seeking a breakthrough in the Brexit negotiations ahead of a key EU summit the week after. (AP Photo/Virginia Mayo)
+    Garvan Walshe: May scrambles to get bad deal she didn't want
+
+Tomsk, RussiaCloudy-5°
+
+    Regions
+        U.S.AfricaAmericasAsiaChinaEuropeMiddle EastOpinion
+
+    U.S. Politics
+        45CongressSecurityThe NineTrumpmericaState
+
+        BusinessMarketsTechLuxury
+
+        StarsScreenBingeCultureMedia
+
+        BusinessCultureGadgetsFutureStartups
+
+    Sport
+        FootballTennisEquestrianGolfJudoHorse RacingMotorsportSailingSkiingOlympics
+
+        DestinationsFood & DrinkPlayStayVideos
+
+        ArtsDesignFashionArchitectureLuxuryAutosVideo
+
+    Health
+        Diet + FitnessLiving WellParenting + FamilyVital Signs
+
+    Features
+        Freedom ProjectImpact Your WorldInside Africa2 degreesCNN HeroesAll Features
+
+    Video
+        Video newsFeature showsHLNTV showsTV scheduleFaces of CNN WorldwideCNNVR
+
+    More…
+        WeatherCNN ProfilesLeadershipPressroomPartner sitesiReportWork for CNN
+
+© 2017 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+CNN Sans ™ & © 2016 Cable News Network.
+
+    Terms of UsePrivacy PolicyAdChoicesMSA StatementAdvertise with usAbout usCNN StoreNewslettersHelpTranscriptsLicense FootageCNN Newsource
+
+
+
+    Must-reads
+    epaselect epa06372496 A Los Angeles County Fire helicopter flies over during the &#39;Skirball Fire&#39; which began early morning in Bel-Air, California, USA, 06 December 2017. An outbreak of several fires North of Los Angeles has occurred as one of the strongest Santa Ana winds forecast of the season is ongoing and expected to last several days. EPA-EFE/JOHN CETRINO
+    Bel-Air is burning: Firefighters battle unprecedented blaze
+    cfp italy exploited migrants_00030120.jpg
+    'Ghettos' and gangmasters: Exploitation in Italy's tomato fields
+
+    Top stories
+    WHISTLER, BC - FEBRUARY 20: Bronze medalist Lindsey Vonn of the United States celebrates with the American flag after the women&#39;s alpine skiing Super-G on day nine of the Vancouver 2010 Winter Olympics at Whistler Creekside on February 20, 2010 in Whistler, Canada. (Photo by Shaun Botterill/Getty Images)
+    Vonn: I won't be representing Trump at Olympics
+    Bitcoin breaks fourth big barrier in 2 days
+    Why is bitcoin's value skyrocketing?
+    Australia legalizes same-sex marriage
+    Singing in parliament after same-sex vote
+    Al Franken to speak amid calls to resign
+    N Korean sanctions violated by 49 nations
+    'Open question' if US can join Olympics
+    Rabbit jumps into wildfires, man panics
+
+    Around the world
+    Mystery solved? $450M Da Vinci is heading to UAE
+    Key questions in Niger ambush probe
+    Officer who developed PTSD after Pulse massacre to lose job
+    Dictator's stolen cash seized in Switzerland
+    Key US State Dept posts lie empty
+    3.6M-year-old human ancestor unveiled
+    Whistleblower: Flynn said Russia sanctions would be 'ripped up'
+
+    Featured
+    Released April 19, 2016 - The Royal Mail (the UKÕs Post Office service) has released a new set of 10 stamps to celebrate the 90th birthday of Queen Elizabeth. Photographed by Ranald Mackechnie in the summer of 2015 for Royal Mail, the specially commissioned Stamp Sheet features a family portrait of four generations of the House of Windsor: HM The Queen, HRH The Prince of Wales, HRH The Duke of Cambridge and for the first time on a Royal Mail stamp, HRH Prince George of Cambridge. The photograph was taken in the White Drawing Room at Buckingham Palace.
+    Inside the Queen's home
+    Shakhtar Donetsk&#39;s Portuguese manager Paulo Fonseca, wearing a Zorro mask and hat, delivers a press conference after Shakhtar Donetsk won their UEFA Champions League group F football match against Manchester City, at Metalist Stadium in Kharkiv, eastern Ukraine, on December 6, 2017. / AFP PHOTO / Stanislas VEDMID
+    Champions League: Which manager dressed up as Zorro to celebrate?
+    How black market for fish bladders destroyed a town
+
+    Spotlight
+    Mabel Emmanuel, 27, and Henry Stevens, 28, with their son, David.
+    Nigerians return with warning: Avoid Libya
+
+    Take a closer look
+    Architects who are changing the world
+    Jerusalem&#39;s Temple Mount
+    Why Jerusalem's holy sites hold such significance
+    A picture taken on November 3, 2017 shows an aerial view of the ruined castle of La Mothe-Chandeniers, in Les Trois-Moutiers, central western France. Specialized in the rescue of old stones, the crowdfunding site Dartagnans.fr and the association Adopte un chateau launched at the end of October the collective takeover, via internet and by mutual agreement, of the ruined castle of La Mothe-Chandeniers ruins, for 500,000 euros. / AFP PHOTO / GUILLAUME SOUVANT (Photo credit should read GUILLAUME SOUVANT/AFP/Getty Images)
+    Own a piece of French history for $60
+    Michelin Guide Bangkok 2018 - Jay Fai
+    Thai street food joint wins Michelin star
+    sport, fitness, healthy lifestyle and people concept - close up of man with jar and bottle preparing protein shake (Newscom TagID: ipurestockxthree992786.jpg) [Photo via Newscom]
+    Protein powder: Pros and cons
+
+    The UAE has big plans for Mars
+    Tradition meets innovation at Design Miami 2017
+    In Paris, France, anti-loitering spikes could be found on a window edge.
+    Hostile architecture ruining cities?
+    What baby talk sounds like around the world
+
+    Opinion
+    Opinion
+    Jane Merrick: Time sides with women over the misogynist-in-chief
+    President Donald Trump speaks in the Diplomatic Reception Room of the White House, Wednesday, Dec. 6, 2017, in Washington. Trump recognized Jerusalem as Israel&#39;s capital.
+    Alice Stewart: The campaign promise Trump chose to keep
+    WASHINGTON, DC - NOVEMBER 28: (L-R) Sen. John Barrasso (R-WY), Senate Finance Committee Chairman Orrin Hatch (R-UT), Senate Majority Leader Mitch McConnell (R-KY), Sen. John Thune (R-SD) and Senate Majority Whip John Cornyn (R-TX) talk with reporters following the weekly Senate Republican Policy Committee luncheon in the U.S. Capitol November 28, 2017 in Washington, DC. Republicans in the Senate hope to pass their tax cut legislation this week and work with the House of Representatives to get a bill to President Donald Trump before Christmas. (Photo by Chip Somodevilla/Getty Images)
+    Mark Bauerlein: Why Trump is still winning
+    TOPSHOT - US President Donald Trump waits to speak during a memorial service at the Pentagon for the 9/11 terrorist attacks September 11, 2017 in Washington, DC. / AFP PHOTO / Brendan Smialowski (Photo credit should read BRENDAN SMIALOWSKI/AFP/Getty Images)
+    Frida Ghitis: Trump's global credibility is shot
+    European Commission President Jean-Claude Juncker, right, greets British Prime Minister Theresa May prior to a meeting at EU headquarters in Brussels on Monday, Dec. 4, 2017. British Prime Minister Theresa May and EU Commission President Jean-Claude Juncker will hold a power lunch on Monday, seeking a breakthrough in the Brexit negotiations ahead of a key EU summit the week after. (AP Photo/Virginia Mayo)
+    Garvan Walshe: May scrambles to get bad deal she didn't want
+
+Tomsk, RussiaCloudy-5°
+
+    Regions
+        U.S.AfricaAmericasAsiaChinaEuropeMiddle EastOpinion
+
+    U.S. Politics
+        45CongressSecurityThe NineTrumpmericaState
+TM Feed
+Хабрахабр
+Geektimes
+Тостер
+Мой круг
+Фрилансим
+Мегапосты:
+
+    Публикации
+    Пользователи
+    Хабы
+    Компании
+    Песочница
+
+Лучшие
+Все подряд +18
+По подписке
+
+    Сутки
+    Неделя
+    Месяц
+
+    acos
+    сегодня в 00:20
+    Хочу красивую железку. PCB Art — печатная плата как искусство
+        Электроника для начинающих,
+        Производство и разработка электроники,
+        Железо,
+        DIY или Сделай сам
+
+    Я с детства обожал смотреть на печатные платы. Они прекрасны! Легко мог разобрать отцовский магнитофон, чтобы просто посмотреть на его мозг. Собрать потом, правда, не мог. Мог очень долго изучать материнскую плату — это же целый город, со своими заводами, домами и автомагистралями. Но по-настоящему сильный восторг от печатной платы я испытал, когда навернулся голосовой чип у моего старичка Juno-106. Этому синтезатору больше 30 лет. Его голосовые чипы выходят из строя со временем, потому что компаунд, которым они покрыты, начинает пропускать влагу. Синтезатор давно не выпускается. Но многим нужны эти чипы. Один парень занялся их реверс-инженирингом, и собрал свой на современных компонентах. Ну и я купил 6 таких. Ребята, это чудо!
+
+    Красота
+    Источник
+
+    Платка толщиной в пол миллиметра. Полосы по краям — скрайбирование. Такая процарапанная борозда. Они сделаны специально для того, чтобы покупатель выломал голосовой чип из этой опалубки. Когда я выламывал свой… Ух! Это чистый восторг! Хрум, хрум.
+
+    К чему я это? А к тому, что можно сделать красивую железку вообще без корпуса!
+
++48
+
+    11,8k
+    54+54
+
+degressor
+вчера в 22:27
+Финалисты Google Lunar Xprize на финишной прямой
+
+    Космонавтика
+
+
+
+До конца конкурса Google Lunar Xprize, стартовавшего 10 лет назад, осталось 4 месяца и продлений больше не будет. Пока что ни у одного из пяти финалистов нет уверенной даты старта. Две команды в срочном порядке ищут деньги на завершение и запуск своих изделий.
+
++22
+
+    6,1k
+    23+23
+
+voyager-1
+сегодня в 08:08
+Поиск жизни в Солнечной системе
+
+    Научно-популярное,
+    Космонавтика,
+    Инфографика,
+    Будущее здесь,
+    Астрономия
+
+
+
+Как известно марсианские каналы, так будоражившие умы землян на рубеже 19-20 веков, с прилётом к Марсу станции Маринер-4 в 1965 году оказались оптической иллюзией. А с посадкой на её поверхность пары «Викингов» в 1976 году шансы на повторение сюжета «Аэлиты» и вовсе свелись к нулю. Марс всё больше и больше напоминал планету из произведений Кира Булычёва:
+
+    Планета Шелезяка. Полезных ископаемых нет. Воды нет. Растительности нет. Населена роботами.
+
+Но вместе с тем в 1979 году со снимками спутника Юпитера Европы сделанных Вояджером-2 у человечества вновь появилась слабая надежда на то, что под его ледяной коркой находится океан жидкой воды (а значит возможно и жизнь). Подтвердить наличие подлёдного океана удалось только в 1995 году аппарату «Галилео», а в дальнейшем и на других спутниках Юпитера и Сатурна были обнаружены океаны жидкой воды, о которых пойдёт речь ниже.
+
+Инфографика
+
++19
+
+    5,7k
+    6+6
+
+Мегапосты
+Разместить
+
+    Как редакция Хабра тестировала конструктор в духе Леонардо да Винчи
+    Как разработчики CRM стали создателями лучшей игры Рунета-2016
+    Несколько тезисов к форуму вокруг Azure Stack и не только
+
+SLY_G
+сегодня в 12:09
+Мягкая или твёрдая? Спор о том, что находится внутри нейтронной звезды
+
+    Физика,
+    Научно-популярное,
+    Астрономия
+
+    Перевод
+
+Ядро нейтронной звезды находится в таком экстремальном состоянии, что физики не могут договориться о том, что происходит внутри неё. Но новый космический эксперимент — и несколько сталкивающихся нейтронных звёзд — должны показать, могут ли ломаться нейтроны
+
+
+
+Предупреждения начали приходить рано утром 17 августа. Гравитационные волны, порождённые столкновением двух нейтронных звёзд — плотных ядер умерших звёзд — омывали Землю. Более 1000 физиков обсерватории aLIGO (Advanced Laser Interferometer Gravitational-Wave Observatory — лазерно-интерферометрическая гравитационно-волновая обсерватория) поспешили расшифровать вибрации пространства-времени, прокатившиеся по детекторам подобно долгому раскату грома. Тысячи астрономов боролись за право стать свидетелями послесвечения. Однако официально весь этот переполох держался в секрете. Нужно было собирать данные и писать научные работы. Внешний мир не должен был узнать об этом ещё два месяца.
+
+Этот строгий запрет поставил Джоселин Рид и Катерино Чатциоаноу, двух членов коллаборации LIGO, в неловкое положение. Днём 17 числа они должны были вести конференцию, посвящённую вопросу о том, что происходит в невообразимых условиях внутренностей нейтронной звезды. А их темой как раз было то, как должно происходить слияние двух нейтронных звёзд. «Мы вышли на перерыв, сели и уставились друг на друга, — говорит Рид, профессор Калифорнийского университета в Фуллертоне. — Так как же мы это сделаем?»
+
++15
+
+    3,5k
+    6+6
+
+Rumlin
+сегодня в 09:25
+Луна-25 получит «световой маяк»
+
+    Научно-популярное,
+    Космонавтика
+
+«Луна-25» станет для РФ очередной попыткой самостоятельно покинуть околоземную орбиту со времен СССР. Первая миссия — «Луна-25» (Луна-Глоб) демонстрационно-испытательная, целью которой является полет к Луне и посадка на её поверхность. Научная нагрузка минимальна, аппарат послужит отработке систем дальней космической связи, управления и посадки. Успех продемонстрирует способность Роскосмоса к посадке на Луну и готовности к более сложным исследовательским миссиям. Одной из задач будет испытание элемента лазерной системы навигации на Луне.
+
+image
+
++13
+
+    4,9k
+    48+48
+
+marks
+сегодня в 04:31
+В Канаде могут начать блокировать «пиратские» сайты без решения суда
+
+    Регулирование IT-сектора,
+    Копирайт
+
+image
+
+Нелицензионное распространение контента — явление, с которым правообладатели пытаются бороться во всем мире. В этой борьбе они используют суды, финансовые инструменты, общественное мнение. В некоторых странах им удается добиться поддержки со стороны других сфер бизнеса и государственной поддержки. Например, в Канаде киностудии объединяют силы с группой интернет-провайдеров для того, чтобы добиться блокировки «пиратских» сайтов без решения суда. Для того, чтобы добиться поставленной цели, инициаторам проекта необходимо лишь одобрение правительственных органов. Если ответ будет положительным — блокировки начнутся незамедлительно.
+
+По мнению правообладателей, блокировка ресурсов, распространяющих нелицензионный контент является весьма эффективным инструментом, который позволяет предотвратить посещение таких сайтов пользователями. За прошедшие несколько лет было заблокировано множество ресурсов в Европе, Азии и других странах.
+
++12
+
+    4,8k
+    26+26
+
+Реклама
+andy_p
+вчера в 21:13
+Генерация кроссвордов с помощью SAT солвера
+
+    Программирование,
+    Логические игры
+
+На Хабре было несколько статей про генерацию кроссвордов. В одной из них «Самый сложный кроссворд, составленный компьютером» говорилось про очень сложный кроссворд, составленный компьютером, которому «пришлось немного помочь» вручную. Во второй статье «Алгоритм формирования кроссвордов» рассказывается про алгоритм, созданный автором для составления кроссвордов, и отмечается, что этот «самый сложный кроссворд» остался непокоренным и говорится, что «может быть эта непокоренная вершина вдохновит кого-нибудь на новый штурм!». Что же, можно принять вызов. Что из этого получилось, смотрите под катом.
+
++10
+
+    2,6k
+    2+2
+
+PatientZero
+сегодня в 10:57
+Как изучают историю математики по чертежам в «Началах» Евклида
+
+    Научно-популярное
+
+    Перевод
+
+В четвёртой книге «Начал» Евклида, текста по геометрии возрастом 2 300 лет, есть указанаия по построению 15-стороннего многоугольника внутри круга. Первый шаг хорошо известен изучающим геометрию: построение равностороннего треугольника и правильного пятиугольника так, чтобы их вершины лежали на окружности и обе фигуры имели одну общую вершину. Кроме текстовых указаний, в «Началах» содержались иллюстрирующие метод чертежи.
+
+
+В старейшей полной копии «Начал», манускрипте девятого века, хранящемся в Ватиканской библиотеке, отрезки прямых чертились и стирались. Изображение из Library of Congress Online Catalog, Prints and Photographs Division.
+
+Невозможно узнать, как выглядели исходные схемы самого Евклида, но в выживших манускриптах открываются удивительные вариации в отображении таких геометрических фигур, как пятнадцатиугольник. Современному наблюдателю такие вариации кажутся ошибками: в некоторых средневековых версиях текста отрезки прямых имеют неверную длину. В манускрипте девятого века, старейшей копии «Начал», хранящейся в Ватиканской библиотеке, отрезки чертились и стирались. В ещё одном тексте девятого века, хранящемся в Оксфордском университете, стороны пятнадцатиугольника внутри окружности изогнутые и беспорядочные, а не прямые. В парижской копии двенадцатого века тоже используются кривые, но они немного менее извилисты, чем в старой оксфордской версии. В Вене хранится текст одиннадцатого или двенадцатого века, в котором исходные линии были правильной длины и прямыми, но позже кто-то добавил к ним изогнутые отрезки (1).
+
++10
+
+    2,4k
+    1+1
+
+Kingston_Technology
+вчера в 21:08
+AMD Ryzen: на что нужно обращать внимание при выборе памяти?
+
+    Процессоры,
+    Настольные компьютеры,
+    Железо,
+    Блог компании Kingston Technology
+
+Чипы AMD Ryzen на базе архитектуры Zen отличаются высокой производительностью, но первое время не показывали топовых результатов именно в игровых тестах. Как оказалось, причина этих неприятностей легко устраняется – вам просто нужны хорошая видеокарта (что очевидно) и правильная оперативная память, если вы хотите получить максимальную отдачу от своего нового камня.
+
+
++9
+
+    11,4k
+    22+22
+
+Работа в IT-индустрии
+
+    full stack web developer
+    от 50 000 до 120 000 руб.
+    3ATDev Севастополь Полный рабочий день
+    Ведущий UX/UI-дизайнер
+    от 120 000 до 180 000 руб.
+    Travelata Москва Полный рабочий день
+    UI/UX Designer
+    Artjoker Харьков Полный рабочий день
+
+Все вакансии
+Создать резюме Разместить вакансию
+marks
+сегодня в 15:01
+На МКС полным-полно микроорганизмов, опасности для людей пока нет
+
+    Научно-популярное,
+    Космонавтика
+
+
+
+Тысячи видов живых организмов обосновались на Международной космической станции. И только один из этих видов — человек. Все остальные представляют собой микроорганизмы. Такие данные приводятся в отчете исследователей, изучавших микробный состав поверхностей 17-летней станции. Ученые обнаружили по меньшей мере 1000 разных видов микробов, но скорее всего их гораздо больше — около 4000.
+
+«Биоразнообразие часто является признаком здоровой экосистемы», — говорит соавтор исследования Дэвид Койл (David Coil). Он считает, что такое количество видов микроорганизмов, обитающих на МКС — индикатор «здорового космического аппарата». Но для понимания того, с чем могут столкнуться, например, колонисты Марса, ученые должны подробно изучить всех обитателей станции.
+
++7
+
+        1,9k
+        5+5
+
+    ← сюда
+    туда →
+
+    1
+    2
+
+Реклама
+
+Самое читаемое
+
+    Сутки
+    Неделя
+    Месяц
+
+Интересные публикации
+
+Реклама
+Fid
+
+    Профиль
+    Трекер
+    Настройки
+
+Разделы
+
+    Публикации
+    Хабы
+    Компании
+    Пользователи
+    Песочница
+
+Информация
+
+    О сайте
+    Правила
+    Помощь
+    Соглашение
+    Конфиденциальность
+
+Услуги
+
+    Реклама
+TM Feed
+Хабрахабр
+Geektimes
+Тостер
+Мой круг
+Фрилансим
+Мегапосты: Да Винчи-конструкторГеймификация банкаФорум Azure Stack
+
+    Публикации
+    Пользователи
+    Хабы
+    Компании
+    Песочница
+
+voyager-1
+сегодня в 08:08
+Поиск жизни в Солнечной системе
+
+    Научно-популярное,
+    Космонавтика,
+    Инфографика,
+    Будущее здесь,
+    Астрономия
+
+
+
+Как известно марсианские каналы, так будоражившие умы землян на рубеже 19-20 веков, с прилётом к Марсу станции Маринер-4 в 1965 году оказались оптической иллюзией. А с посадкой на её поверхность пары «Викингов» в 1976 году шансы на повторение сюжета «Аэлиты» и вовсе свелись к нулю. Марс всё больше и больше напоминал планету из произведений Кира Булычёва:
+
+    Планета Шелезяка. Полезных ископаемых нет. Воды нет. Растительности нет. Населена роботами.
+
+Но вместе с тем в 1979 году со снимками спутника Юпитера Европы сделанных Вояджером-2 у человечества вновь появилась слабая надежда на то, что под его ледяной коркой находится океан жидкой воды (а значит возможно и жизнь). Подтвердить наличие подлёдного океана удалось только в 1995 году аппарату «Галилео», а в дальнейшем и на других спутниках Юпитера и Сатурна были обнаружены океаны жидкой воды, о которых пойдёт речь ниже.
+
+Инфографика
+
+Церера
+
+Церера (слева внизу) в сравнении с Землёй и Луной
+
+По недавно полученным данным зонда Рассвет (Dawn) эта карликовая планета имеет в своём составе около 25% воды. Предполагается что в первые миллионы лет своего существования эта карликовая планета имела жидкую воду на своей поверхности, часть из которой так и осталась лежать там в виде льда. Однако на данный момент Церера не имеет ни достаточного источника радиоактивного распада, ни массивных соседей достаточных для гравитационного разогрева его недр и поверхности (а до Солнца там уже слишком далеко). Поэтому нахождение в её недрах воды в жидкой фазе весьма маловероятно также, как и любых признаков жизни. Однако текущее состояние Цереры не исключает зарождения и существования жизни на её поверхности в первые моменты существования Солнечной системы, когда светимость Солнца не упала в процессе его выхода на главную последовательность. И следы этой гипотетической существовавшей жизни вполне можно поискать.
+
+Европа
+
+
+
+Инфографика
+
+Первые подозрения о наличии подповерхностного океана у этого галилеева спутника Юпитера появились ещё в результате снимков, сделанных «Вояджерами» в 1979 году, но окончательную прояснить эти сомнения удалось только зонду «Галилео» спустя долгие 14 лет. На данный момент достоверно известно, что толщина гидросферы Европы достигает 100 км, что даёт оценочный объём океана этого спутника (имеющего массу всего в 0,8% массы Земли) в 2-3 раза больший объёма всех океанов Земли вместе взятых.
+
+
+
+При этом по одной из моделей вся толща гидросферы кроме 10-30 км верхней ледяной коры находится в жидкой фазе, а по другой — большая часть находится в состоянии вязкого льда. Из-за недостаточности энерговыделения модели гравитационного разогрева большинство учёных склоняется к второй версии, однако по гладкой поверхности Европы точно известно, что как минимум определённая доля воды в жидкой фазе под поверхностью этого спутника Юпитера всё же есть.
+
+
+
+На данный момент Европа и остальные галилеевы спутники Юпитера являются довольно слабо изученными, так как непосредственно на исследования системы Юпитера были направлены только два аппарата: «Галилео» и «Юнона» (работающий там в данный момент). Однако из-за того, что «Юнона» и её инструменты направлены большей частью на изучение магнитного поля самого Юпитера, об пригодности для жизни спутников Юпитера известно довольно мало. Ближайшие миссии, которые должны внести большую ясность в наше устройство Европы, Ганимеда и Каллисто должны стать миссии «JUICE» европейского агентства ESA и «Europa Clipper» американского NASA запуск которых предварительно назначен на 2022 год.
+
+Ганимед
+
+
+
+Также относится к числу 4-х галилеевых спутников и имеет подтверждённую толщину ледяной мантии порядка 800 км. К сожалению, о толщине его океана ничего не известно, хотя само его существование достоверно подтверждено, а о нём также известно, что оно дифференцировано по солёности на 4 слоя разделённые льдами типа I, III, V и VI. К сожалению толщина ледяной коры должна составлять около 100 км, что исключает возможность его исследования в обозримом будущем.
+
+Каллисто
+
+
+
+Под поверхностью этого спутника Юпитера находится ледяная мантия толщиной порядка 80-120 км, в толще которой располагается глобальный океан с глубиной не менее 10 км. В случае же если в составе этого океана присутствует аммиак или другой антифриз с концентрацией до 5% — толща водяного слоя может достигать все 250-300 км. Поверхность спутника примерно на 25% состоит из льда, который местами достигает концентрации в 80%, однако на основе полученных данных можно судить о том, что океан Каллисто по всей видимости никогда не был связан с поверхностью, что делает его маловероятным местом для зарождения жизни.
+
+Энцелад
+
+image
+
+Практически сразу после прибытия Кассини в систему Сатурна был обнаружен источник вещества самого широкого кольца Е Сатурна — ими оказались гейзеры Энцелада. В процессе пролётов этого спутника Кассини было установлено что вещество выбрасываемое гейзерами имеет в своём составе углекислый и угарный газ, метан, пропан, ацетилен, формальдегид и минеральные соли, а pH составляет 11-12 единиц, что является приемлемым условием для существования многоклеточных форм жизни земного типа.
+
+
+
+Вполне возможно, что в составе выбросов также присутствовали сложные органические вещества, но «выжать» большего из приборов зонда было уже невозможно, так как в момент отправления 15 октября 1997 года его создатели лишь подозревали о наличии у спутников Сатурна подповерхностных океанов. На основе измерений влияния Энцелада на траекторию пролёта Кассини была составлена гравитационная карта спутника по которой стало понятно, что он имеет подповерхностный солёный океан, простирающийся от южного полюса спутника до 50° южной широты. Океан имеет глубину порядка 10 км и располагается под ледяной оболочкой толщиной около 20-25 км, который в области южного полюса подходит к поверхности на глубину в 1-5 км.
+
+
+
+Согласно предварительным расчётам энергии, выделяемой в процессе гравитационного трения, не хватало на существование подповерхностного океана с такими параметрами, а естественный распад радиоактивных материалов в ядре мог произвести не более 1% от необходимого энерговыделения. Однако недавнее исследование показало, что если цельное ядро Энцелада в расчётах заменить на пористое, то выделяемой энергии оказывается вполне достаточно для наблюдаемого нагрева океана. А химический составу выбросов гейзеров также указывал на то что он образовывался при взаимодействии воды имеющий температуру более 90°C со скальными породами.
+
+От различных подразделений NASA и ESA предлагалось уже целых 12 различных миссий, направленных на исследования Энцелада в качестве основной или вторичной цели, но на данный момент ни одна из них не была принята к реализации. Уже 9 декабря NASA начинает конкурс по очередному этапу программы «Новые рубежи», среди 12-ти рассматриваемых заявок которой две направленны непосредственно на исследования Энцелада. При этом к 2019 году по этой программе должны быть выбраны 4-6 миссии, что даёт высокие шансы на то что хотя бы одна из этих двух заявок выиграет конкурс и полетит в 2025 году на исследования Энцелада. Кроме этого об желании запустить первую частную миссию к Энцеладу высказался Юрий Мильнер.
+
+Титан
+
+
+
+Кассини и Титан
+
+По данным недавно закончившего свою миссию зонда Кассини этот спутник Сатурна оказался интересен не только тем что является единственным во всей Солнечной системе объектом, имеющим жидкие моря на поверхности (за исключением Земли конечно), но ещё и тем что по обнаруженному зондом «Кассини» дрейфу его поверхности в 0.36° за год под его поверхностью был обнаружен глобальный океан. Глубина океана составляет целых 250 км, но из-за того, что оно запечатано в 50 км от поверхности, добраться до него с исследовательской миссией в ближайшее время явно не удастся.
+
+
+
+По точным измерениям траектории зонда NASA удалось даже установить то что солёность этого океана близка к показателю Мёртвого моря Земли (в котором, не смотря на зловещее название всё-таки обитают микроорганизмы). Кроме этого под действием гравитационного воздействия Сатурна на Титане происходят приливы высотой до 10 м (это стало вторым подтверждением существования подповерхностного океана, так как иначе приливы должны были бы составлять не более 1 м).
+
+Спуск зонда Гюйгенс на поверхность Титана
+
+на 2020-е годы назначен запуск миссии TSSM, которая должна стать идейным продолжением миссии Кассини-Гюйгенс: на этот раз предполагается доставка к Титану воздушного шара предназначенного для исследования атмосферы
+
+Мимас
+
+
+
+За свой характерный кратер «Гершель» этот спутник Сатурна с момента своего открытия сразу получил прозвище «Звезда смерти». В реальности Мимас имеет 400 км в диаметре, превосходя таким образом первую «Звезду смерти» из Звёздных войн в 3 раза, и являясь немногим больше второй из них. Предполагается что он должен иметь океан на глубине в 24-31 км под его испещрённой кратерами поверхностью, однако на данный момент точных подтверждений его наличия обнаружено не было.
+
+Тритон
+
+
+
+Этот спутник Нептуна был посещён искусственным объектом всего однажды — когда Вояджер-2 пролетел мимо него на своём пути к дальним окраинам Солнечной системы. По этой причине Тритон слабо изучен: нам доступны подробные снимки лишь одной его стороны. На его поверхности подтверждено наличие азотных гейзеров и предполагается наличие подповерхностного океана из смеси воды и аммиака, но из-за большой отдалённости этого спутника от Солнца наличие известных форм жизни на нём сейчас или ранее практически исключается.
+
+Плутон
+
+
+
+Эта, недавно разжалованная из «больших», карликовая планета имеет очень разреженную атмосферу (с давлением у поверхности в 600 раз меньшим чем у Марса). Предполагается что у Плутона должно быть достаточно внутреннего тепла для существования под поверхностью океана жидкой воды, при наличии достаточной концентрации антифризов. Однако недавний пролёт «Новых горизонтов» мимо него так и не смог дать однозначный ответ на этот вопрос.
+
+
+
+Текущие новости
+
+
+
+Буквально сегодня были опубликованы данные об обнаружении самой далёкой из обнаруженных чёрных дыр на данный момент: она имеет массу в 800 млн масс Солнца и имеет возраст всего 690 млн лет от Большого взрыва. Это открытие ставит серьёзные вопросы перед космологами, так как это означает что неравномерность плотности Вселенной росла на порядки быстрее чем это предусматривают теории её зарождения.
+
+Из-за установки жёсткого ограничения стоимости проекта телескопа «Джеймс Уэбб» в 8 млрд $ — его запуск также был перенесён на полгода (на весну 2019-го). Однако работа несмотря ни на что продолжается: так недавно были без замечаний закончены тесты в барокамере и приняты 13 заявок на первые полгода работы этого телескопа.
+
+
+
+Запуск CRS-13 (в котором должны будут переиспользоваться и первая ступень и корабль) перенесён с 4-го декабря на 8-е число, и до конца года года намечен ещё один запуск Falcon 9 с 10-ю спутниками Idiridum NEXT. А первый запуск Falcon Heavy к сожалению «съехал» на январь 2018-го. У Роскосмоса до конца этого года также намечено ещё 2 запуска. Таким образом если всё пройдёт гладко и у нас, и у США, то по итогам года SpaceX отстанет от Роскосмоса на 3 запуска, и всего на 2 если учитывать только успешные запуски.
+
+
+
+Второй запуск ракеты «Электрон» от Rocket Lab также должен произойти 8 декабря (в 4.30 ночи по московскому времени). И как обещают представители самой Rocket Lab — впервые будет транслироваться в прямом эфире.
+
+Европейское космическое агентство выделяет 63 млн $ на создание новой ракеты-носителя лёгкого класса Вега-Е и ещё 43,7 млн $ на постройку беспилотного многоразового корабля с полезной нагрузкой до 800 кг и временем пребывания в космосе до 2 месяцев.
+
+Индийская миссия «Чандраян-2» должна быть запущена к Луне уже в марте следующего года.
+
+Несмотря на предупреждения конгресса о возможных последствиях, первый старт ракеты-носителя SLS всё-таки был перенесён на 2020 год. Задержки в запуске первой модификации SLS также привели к «съезжанию» запуска Europa Clipper с 2022 года вправо, так как модернизированная версия SLS необходимая для этой миссии, также будет готова с задержкой.
+
+Метки:
+
+        Жизнь в космосе
+        внеземная жизнь
+        Европа
+        Энцелад
+        Ганимед
+        Титан
+        Мимас
+        Плутон
+        Церера
+
+Никаких подозрительных скриптов, только релевантные баннеры. Не релевантные? Пиши на: adv@tmtm.ru с темой «Полундра»
+
+Реклама
+
+
+
++19
+
+    5,7k
+    6
+
+99,2
+Карма
+134,7
+Рейтинг
+63
+Подписчики
+Денис Нырков voyager-1
+Системный администратор
+
+    Twitter
+
+Поделиться публикацией
+
+Похожие публикации
+
+    19 ноября 2015 в 01:10 «Химический ноутбук» поможет найти внеземную жизнь
+    +4 4,7k 5
+    1
+    15 мая 2015 в 10:01 Красные карлики — наилучшие кандидаты на внеземную жизнь… или наихудшие?
+    +17 14,4k 17
+    6
+    16 февраля 2014 в 06:32 Где и как будут искать внеземную жизнь после Марса
+    +201 70,6k 166
+    146
+
+Никаких подозрительных скриптов, только релевантные баннеры. Не релевантные? Пиши на: adv@tmtm.ru с темой «Полундра»
+
+Реклама
+Комментарии 6
+Отслеживать новые в
+почте
+трекере
+
+    p-oleg
+    07.12.17 в 09:28
+
++1
+>>Каллисто
+По данным недавно закончившего свою миссию зонда Кассини, под поверхностью этого спутника Сатурна…
+Хм, а Кассини к Сатурну через Юпитер летел?
+Ответить
+
+    voyager-1
+    07.12.17 в 10:41
+
++1
+
+    Кассини делал гравитационный манёвр возле Юпитера, но был там только пролётом. Данные эти конечно были с зонда «Галлилео».
+    Ответить
+
+IgorKolpakov
+07.12.17 в 09:45
+
++1
+
+Каллисто — спутник Юпитера..
+Ответить
+inferrna
+07.12.17 в 12:09
+
++1
+Я бы в сторону Урана копал: водяные облака на уровне 300К — что может быть комфортнее? Уж точно не промозглый стерильный солёный океан под толщей льда.
+Атмосфера Урана
+ru.wikipedia.org/wiki/Атмосфера_Урана
+Ответить
+
+    ariksu
+    07.12.17 в 14:08
+
++1
+При давлении 60-80 атмосфер самое оно, согласен.
+Ответить
+
+    inferrna
+    07.12.17 в 14:29
+
++2
+
+            На Земле при таком давлении вполне себе есть жизнь, не вижу проблемы.
+            Каждые 10 метров воды создают давление в
+            Ответить
+
+Написать комментарий
+
+Markdown (
+?
+)
+Что обсуждают
+
+    Сейчас
+    Вчера
+    Неделя
+
+    Как запоминать английские слова навсегда: метод интервальных повторений
+    760
+    2
+    Решаем проблему шума ПК самодельным устройством, а заодно «с нуля» учимся делать красивые корпуса для DIY-проектов
+    32,9k
+    152
+    Самодельный светодиодный индикатор в slim факторе
+    11,1k
+    59
+    В Канаде могут начать блокировать «пиратские» сайты без решения суда
+    4,8k
+    26
+    Проект поселения на Марсе, колеса для нового марсохода, картошка и черви в марсианской почве
+    13,3k
+    78
+
+Интересные публикации
+
+    Мастер-класс «Почему Стив Джобс любил шрифты» (Алексей Каптерев) Хабр
+    +18 906 11
+    1
+    Отладка злого бага в рантайме Go Хабр
+    +26 1,3k 17
+    3
+    На МКС полным-полно микроорганизмов, опасности для людей пока нет
+    +7 1,8k 1
+    5
+    Kotlin Night Moscow — видео, фото, презентации Хабр
+    +13 590 6
+    0
+    Когда дворецкий — жертва Хабр
+    +16 1,8k 7
+    11
+
+AdBlock похитил этот баннер, но баннеры не зубы — отрастут
+
+Реклама
+Fid
+
+    Профиль
+    Трекер
+    Настройки
+Switzerland to return $321 million of stolen money to Nigeria
+
+By Kieron Monks, CNN
+
+Updated 1351 GMT (2151 HKT) December 6, 2017
+The Nigerian government has now reclaimed over $1 billion believed stolen by former President General Sani Abacha
+The Nigerian government has now reclaimed over $1 billion believed stolen by former President General Sani Abacha
+Story highlights
+
+    Swiss government reclaimed funds from the family of former President Sani Abacha.
+    Abacha accused of stealing over $4 billion during his five years in office
+    World Bank will oversee dispersal of funds, including on social programs
+
+(CNN)The Swiss government is to return $321 million to Nigeria that was seized from the family of former President Sani Abacha.
+The assets were confiscated as part of criminal proceedings against Abba Abacha, son of Sani, who ruled Nigeria for five years until his death in 1998.
+
+Nigerian investigators believe the former president stole more than $4 billion during his time in office.
+The Swiss government released a statement Monday announcing that agreement had been reached with officials from the Nigerian government and the World Bank on the terms of restitution.
+"The restitution of funds will take place within the framework of a project supported and overseen by the World Bank," the statement said. "The project will strengthen social security for the poorest sections of the Nigerian population."
+The government of Nigeria made its own statement thanking international partners and vowing to continue its anti-corruption drive, a core policy of President Muhammadu Buhari's administration.
+"We are grateful for the international support we're getting in the fight against corruption. Global collaboration is critical to the success of the fight...We will continue to work to deepen mechanisms not just for asset recovery but for preventing corruption in the first place."
+Switzerland has already recovered around $700 million of Abacha-related assets to date.
+Nigeria is also pursuing $480 million that has been seized in the US, but faces a laborious legal process to reclaim it.
+Nigeria is one of four countries being prioritized for asset recovery assistance at the inaugural Global Forum on Asset Recovery, currently being held in Washington DC.
+The country lost $400 billion to corruption between 1960 and 1999, according to estimates cited by the UN Office on Drugs and Crime (UNODC).
+
+Tomsk, RussiaCloudy-5°
+
+    Regions
+        U.S.AfricaAmericasAsiaChinaEuropeMiddle EastOpinion
+
+    U.S. Politics
+        45CongressSecurityThe NineTrumpmericaState
+
+        BusinessMarketsTechLuxury
+
+        StarsScreenBingeCultureMedia
+
+        BusinessCultureGadgetsFutureStartups
+
+    Sport
+        FootballTennisEquestrianGolfJudoHorse RacingMotorsportSailingSkiingOlympics
+
+        DestinationsFood & DrinkPlayStayVideos
+
+        ArtsDesignFashionArchitectureLuxuryAutosVideo
+
+    Health
+        Diet + FitnessLiving WellParenting + FamilyVital Signs
+
+    Features
+        Freedom ProjectImpact Your WorldInside Africa2 degreesCNN HeroesAll Features
+
+    Video
+        Video newsFeature showsHLNTV showsTV scheduleFaces of CNN WorldwideCNNVR
+
+    More…
+        WeatherCNN ProfilesLeadershipPressroomPartner sitesiReportWork for CNN
+
+© 2017 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+CNN Sans ™ & © 2016 Cable News Network.
+
+    Terms of UsePrivacy PolicyAdChoicesMSA StatementAdvertise with usAbout usCNN StoreNewslettersHelpTranscriptsLicense FootageCNN Newsource
+
+
+Разделы
+
+    Публикации
+    Хабы
+    Компании
+    Пользователи
+    Песочница
+
+Информация
+
+    О сайте
+    Правила
+    Помощь
+    Соглашение
+    Конфиденциальность
+
+Услуги
+
+    Реклама
+    Тарифы
+    Контент
+    Семинары
+
+Приложения
+© 2006 – 2017 «TM»
+Служба поддержки
+Мобильная версия
+
+
+    Тарифы
+    Контент
+    Семинары
+
+Приложения
+© 2006 – 2017 «TM»
+Служба поддержки
+Мобильная версия
+
+
+
+        BusinessMarketsTechLuxury
+
+        StarsScreenBingeCultureMedia
+
+        BusinessCultureGadgetsFutureStartups
+
+    Sport
+        FootballTennisEquestrianGolfJudoHorse RacingMotorsportSailingSkiingOlympics
+
+        DestinationsFood & DrinkPlayStayVideos
+
+        ArtsDesignFashionArchitectureLuxuryAutosVideo
+
+    Health
+        Diet + FitnessLiving WellParenting + FamilyVital Signs
+
+    Features
+        Freedom ProjectImpact Your WorldInside Africa2 degreesCNN HeroesAll Features
+
+    Video
+        Video newsFeature showsHLNTV showsTV scheduleFaces of CNN WorldwideCNNVR
+
+    More…
+        WeatherCNN ProfilesLeadershipPressroomPartner sitesiReportWork for CNN
+
+© 2017 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+CNN Sans ™ & © 2016 Cable News Network.
+
+    Terms of UsePrivacy PolicyAdChoicesMSA StatementAdvertise with usAbout usCNN StoreNewslettersHelpTranscriptsLicense FootageCNN Newsource
+
+Modern Slavery Act Statement for Cable News International Limited, a U.K. subsidiary of Time Warner Inc.
+
+Time Warner Inc.
+Time Warner Inc. ("Time Warner" or the "Company"), a leading media and entertainment company with businesses in television networks and film and TV entertainment, is incorporated and headquartered in the United States. Time Warner and its three operating segments -- Turner Broadcasting System, Inc., Home Box Office, Inc., and Warner Bros. Entertainment Inc. -- have operations in the United States and, through subsidiaries, internationally, including in the United Kingdom.
+This statement has been made and adopted by Cable News International Limited (CNI Ltd) pursuant to Section 54 of the Modern Slavery Act of 2015 (the "Act"). CNI Ltd is a Time Warner subsidiary with operations in the U.K. that meet the criteria set forth in the Act. This statement has been approved by the CNI Ltd Board of Directors and also applies to all subsidiaries of CNI Ltd which meet the criteria set forth in the Act. This statement covers CNI Ltd's business activities for the fiscal year ending December 31, 2016.
+Standards of Business Conduct
+Time Warner is committed to conducting global business with high ethical and legal standards. That commitment begins with Time Warner's Standards of Business Conduct (SBC), available at http://www.timewarner.com/company/corporate-governance/codes-of-conduct. The SBC apply to all employees of Time Warner and serve as a model for comparable codes of conduct that have been adopted at each of the Company's businesses, including offices outside the U.S. The SBC stress the importance of abiding by the law, being truthful, being transparent in our business dealings, putting the needs of our shareholders and customers first, and avoiding excesses and ethical lapses.
+Ethical Sourcing and Supply Chain
+In addition to the SBC, the Company has policies on specific topics to provide guidance to employees. In 2007, the Time Warner Board of Directors adopted ethical sourcing guidelines, which apply to vendors from whom the Company purchases directly and to whom the Company's subsidiaries license images, brands and characters. The Guidelines establish expectations for the vendors' business operations as they relate to Time Warner and its businesses and reflect our commitment to conduct business in an ethical manner and in compliance with applicable laws and regulations. The Guidelines set forth Time Warner's expectations with respect to, among other areas: (1) child labor, (2) involuntary labor, (3) coercion, abuse and harassment of supplier employees, (4) working hours and compensation, and (5) worker health and safety.
+Time Warner reserves the right to take any actions it deems appropriate to monitor and promote adherence to the Guidelines. Time Warner's Internal Audit department reviews contracts with vendors as part of its divisional and departmental audits to confirm whether the Guidelines have been incorporated.
+Time Warner believes in the value of collaborating and sharing information to improve responsible sourcing efforts across the globe. Time Warner's businesses are members of various industry working groups, including the International Licensing Industry Merchandisers' Association (LIMA) and the Toy Industry Association (TIA).
+Training
+The Company understands that a key component of an effective compliance environment is employee training and education regarding the rules and policies that apply to their business activities, as well as the Company's commitment to ethical business conduct. Employees receive training on the SBC when they join the Company, as well as regular ethics and compliance training on laws that apply to our business activities to reinforce the Company's commitment to compliance with laws and ethical behavior.
+Reporting and Monitoring Misconduct
+Employees are encouraged to report any misconduct or unethical behavior. The Company and its businesses provide multiple means of reporting concerns, including a HelpLine monitored 24-7, which enable anonymous reporting where permitted by local law. Third parties can also report concerns, including through the HelpLine (where permitted by local law). These various means of reporting are listed in the SBC and publicized to employees and business partners. Time Warner and its businesses encourage anyone to report in good faith issues about potential ethical, legal, regulatory, or human rights violations. The Company will investigate allegations and take appropriate remedial actions.
+
+    Regions
+        U.S.AfricaAmericasAsiaChinaEuropeMiddle EastOpinion
+
+    U.S. Politics
+        45CongressSecurityThe NineTrumpmericaState
+
+        BusinessMarketsTechLuxury
+
+        StarsScreenBingeCultureMedia
+
+        BusinessCultureGadgetsFutureStartups
+
+    Sport
+        FootballTennisEquestrianGolfJudoHorse RacingMotorsportSailingSkiingOlympics
+
+        DestinationsFood & DrinkPlayStayVideos
+
+        ArtsDesignFashionArchitectureLuxuryAutosVideo
+
+    Health
+        Diet + FitnessLiving WellParenting + FamilyVital Signs
+
+    Features
+        Freedom ProjectImpact Your WorldInside Africa2 degreesCNN HeroesAll Features
+
+    Video
+        Video newsFeature showsHLNTV showsTV scheduleFaces of CNN WorldwideCNNVR
+
+    More…
+        WeatherCNN ProfilesLeadershipPressroomPartner sitesiReportWork for CNN
+
+© 2017 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+CNN Sans ™ & © 2016 Cable News Network.
+
+    Terms of UsePrivacy PolicyAdChoicesMSA StatementAdvertise with usAbout usCNN StoreNewslettersHelpTranscriptsLicense FootageCNN Newsource
+
+Россия сегодня
+
+    РИА Новости
+    ИноСМИ
+    ПРАЙМ
+    Р-Спорт
+    РИА Недвижимость
+    РИА Рейтинг
+
+ИноСМИ - Все, что достойно перевода
+FacebookVkTwitterTelegramВходРегистрация
+Политика
+Экономика
+Наука
+Война и ВПК
+Общество
+Все за сегодня
+Longread
+Мультимедиа
+Обзоры СМИ
+FacebookVkTwitterTelegram
+
+Общество
+The Guardian logoThe Guardian, Великобритания
+Президент России Владимир Путин и президент МОК Томас Бах
+© AP Photo, RIA Novosti Kremlin, Mikhail Klimentyev, Presidential Press Service, file
+Конечно, российский спорт развращен, но ведь и сама Олимпиада тоже
+Отстранение России от Олимпийских игр 2018
+
+Весь этот проект нуждается в переосмыслении. Надо отказаться от флагов, и пусть спортсмены состязаются как граждане мира.
+07.12.20178527313
+Tweet
+Саймон Дженкинс (Simon Jenkins)
+
+Я немного сочувствую Владимиру Путину. Он долгие годы ухаживал за Международным олимпийским комитетом, оказывая ему знаки внимания. Безусловно, МОК прекрасно знал, причем знал на протяжении десятилетий, что российские спортсмены, как и многие другие спортсмены, под завязку заправляются допингом. Но он игнорировал все сигналы разоблачителей и журналистов на эту тему, отказываясь прислушиваться к ним даже тогда, когда ему и его смехотворному «антидопинговому агентству» негласно передавали неопровержимые доказательства, как это сделали Виталий и Юлия Степановы еще в 2010 году. МОК ничего не сделал для того, чтобы побороть обман, расточительность и коррупцию, которые стали характерной чертой зимних Олимпийских игр в Сочи.
+
+
+Россия нравилась МОК. Для нее шовинизм был важнее денег, а деньги важнее спорта. Она как безумная тратила деньги и накачивала допингом своих атлетов. Когда отчаявшиеся Степановы в 2014 году заговорили и передали свои обойденные вниманием материалы в СМИ, этот гнойник прорвало. МОК даже проявил смущение и неловкость, однако потом продемонстрировал свое истинное отношение к разоблачителям, разрешив другим российским спортсменам состязаться в Рио, но отстранив от Игр Юлию Степанову. Так международный спорт поступает с теми, кто играет не по его правилам.
+
+
+На этой неделе МОК, прислушавшись к заявлениям другого непоколебимого разоблачителя Григория Родченкова и к выводам как минимум трех расследований, объявил, что Россия нанесла «беспрецедентный удар по репутации Олимпийских игр и спорта». Президент МОК Томас Бах сказал, что русские смогут состязаться на Олимпиаде в Сеуле только под «нейтральным» флагом МОК, хотя и со словом «Россия» на своей форме. Это будет весьма неправдоподобный сертификат «чистоты» спортсмена.
+
+
+Будь я Путиным, я бы задал вопрос Баху: почему три года назад я был такой чистый, а сейчас стал такой грязный? В этом нет ничего нового. И как насчет других стран, которые, как это наверняка известно МОК, накачивают допингом своих спортсменов? Если бы он ответил, что в России допинг возвели в ранг государственной программы, я бы предложил ему потянуть и за другие ниточки. Дело в том, что на этой неделе была разоблачена не только Россия, но и МОК.
+
+
+Наднациональные органы будут и дальше развращать спорт и наслаждаться жизнью на швейцарских озерах, поскольку они являются никому не подотчетными олигархиями. Они будут делать это, поскольку такие их члены как Британия и Америка вступили с ними в сговор и потворствуют их недостойному поведению в безнравственной погоне за спортивным престижем. Олимпийские чиновники Британии знали о допинге, потому что о нем знал каждый спортсмен. Но проблема заключается в том (об этом довольно язвительно сказала Степанова, давая в 2016 году интервью ВВС), что если о чем-то известно всем, кроме общества, это вовсе не новость.
+
+
+Отвратительная реальность допинга в спорте состоит в том, что он плавает в огромном море денег. Однако штраф в 15 миллионов долларов, который МОК наложил на Москву в счет компенсации расходов на антидопинговые расследования, это мелочь. Я уверен: эти деньги не дойдут ни до Степановых, ни до Родченкова, которые сегодня прячутся, опасаясь за свою жизнь.
+
+Контекст
+Президент Международного олимпийского комитета Томас Бах на пресс-конференции по итогам заседания исполкома МОК в Лозанне. 6 декабря 2017
+Спорт стал оружием в борьбе с Россией
+Gli Occhi Della Guerra07.12.2017
+Что может сделать Россия?
+Sports Illustrated06.12.2017
+Россия не заслужила олимпийских торжеств
+The New York Times05.12.2017
+
+Между тем, международный спорт сплачивает свои ряды. МОК посчитал необходимым «пожизненно» отстранить российского министра спорта Виталия Мутко от Олимпиады, но почему-то дал индульгенцию его кремлевскому боссу. Нет никаких намеков на бойкот чемпионата мира по футболу, который пройдет в России, и который готовит тот же самый Мутко. И это несмотря на звучащие до сих пор вопросы о том, почему ФИФА отдала эти соревнования Москве, а ЧМ-2022 Катару.
+
+
+От этих решений просто разит коррупцией. Вчера ФИФА выступила с заявлением в поддержку Мутко, как будто пытаясь заглушить недовольный ропот о том, что его деятельность по созданию допинговых схем вышла за пределы атлетики и распространилась на футбол. Недавно был опубликован независимый доклад о допинге в России при поддержке государства. Там говорится, что эта система действует примерно в 30 видах спорта.
+
+
+Любой спортсмен скажет вам, что талант может вывести на вершину спортивных достижений, однако соблазн воспользоваться допингом, чтобы остаться там, очень велик. На тебя рассчитывает команда. Твоя страна считает твои медали своими собственными, видя в их блеске отражение славы государства. В этом плане Британия одна из худших стран. Она тратит народные деньги на завоевание медалей, что не по карману более бедным странам. И она наказывает атлетов, которые не побеждают, урезая их доходы. Все это напоминает действия старого советского блока.
+
+
+МОК несколько парадоксальным способом показал, какой можно найти выход из этой ситуации. Он не будет считать атлетов из «виновных» стран их представителями. Они будут выступать как частные лица. Но надо идти до конца и относиться таким образом ко всем спортсменам. Надо положить конец безудержному шовинизму, который ввел Гитлер в 1936 году, и приглашать спортсменов к участию в Олимпиаде как граждан мира. Журналист Бернард Левин (Bernard Levin) даже предложил, чтобы они состязались обнаженными, как в Древней Греции, потому что таким образом Игры можно лишить их националистических эмблем. Вся эта кутерьма с командами, формой, флагами, гимнами и истеричными комментаторами превратила Олимпийские игры в пародию на спорт.
+
+
+А еще Олимпиада не должна быть туристическим клубом для богачей. Ее всегда нужно проводить в одном и том же месте, например, в Греции, где родилась Олимпиада. У нас есть телевидение, а это значит, что нет никаких оснований колесить по всему миру, разоряя один город за другим дорогостоящими белыми слонами и болтовней об «олимпийском наследии». Но этот цирк продолжается, а расходы на него растут. Поэтому МОК может благословлять малодушных политиков, называя их «хозяевами», в то время как его армии продавцов билетов, консультантов, подрядчиков и рекламщиков делают на Олимпиадах огромные деньги. А города-жертвы потом лежат в руинах.
+
+
+Исследователь олимпийского спорта Эндрю Цымбалист (Andrew Zimbalist) в своей работе Circus Maximus показал, что утверждения о положительном олимпийском наследии «грубо вводят в заблуждение». Три недели спорта обходятся во многие миллионы, а теперь и миллиарды долларов.
+
+
+Стадион в Рио разграблен и ветшает, спортивные сооружения в Афинах съежились и просели. Лондонский стадион «Стрэтфорд» даже после перестройки за 323 миллиона фунтов стерлингов обходится лондонцам в 20 миллионов фунтов ежегодно. Это результат щедрой сделки Бориса Джонсона с футбольным клубом «Вест Хэм». А что до обещания Дэвида Кэмерона о том, что после 2012 года у нас будет на два миллиона больше спортсменов, так эти обещания не выполнены, и спортсменов у нас не прибавилось.
+
+
+Все мольбы вернуть мировому спорту достоинство останутся неуслышанными, пока этим спортом руководят не атлеты и их коллеги, а государства, оказавшиеся в плену у картелей типа ФИФА и МОК. Грандиозные спортивные мероприятия приносят удовольствие миллионам, но это можно делать гораздо дешевле, не отравляя при этом молодые тела допингом. Однако сегодня международный спорт является заложником монополистической элиты в лице корпораций и богачей, и спортивная деятельность регулируется только спорадическими пароксизмами негативного освещения в СМИ.
+Оригинал публикации: Of course Russian sport is corrupt, but then so are the Olympics
+Опубликовано 06/12/2017
+8527313
+Tweet
+Теги:
+
+    Олимпийские игрыОлимпиада-2018 (Пхёнчхан, Южная Корея)Международный олимпийский комитет (МОК)Томас БахВладимир ПутинРоссия
+
+Ссылки по теме:
+Напишу на шлеме, что я — русский
+The Washington Post06.12.2017
+Чем обернется запрет на участие России в ОИ-2018?
+CBC05.12.2017
+Конечно, российский спорт развращен, но ведь и сама Олимпиада тоже
+
+11:19 07/12/2017
+24 февраля 2014. Президент России Владимир Путин и президент МОК Томас Бах во время официального завтрака от имени Международного олимпийского комитета в честь АНО Оргкомитет «Сочи 2014» в Сочи.
+Президент России Владимир Путин и президент МОК Томас Бах
+ГЛАВНОЕ НА ИноСМИПрезидент России Владимир Путин и президент МОК Томас Бах
+Российский спорт развращен, но Олимпиада тоже
+The Guardian logo
+The Guardian, Великобритания
+Сторонники оппозиционного политика Алексея Навального во время митинга на Болотной площади
+Армия Навального
+The Guardian logo
+The Guardian, Великобритания
+Владимир Путин на рождественской службе в одном из храмов Костромы
+Владимир Путин не такой русский, как кажется
+Foreign Policy logo
+Foreign Policy, США
+Всего комментариев:85
+Правила комментирования
+Обсуждение
+
+    Комментарий
+
+Все комментарии
+
+    Ответить
+    11:22 07.12.2017 | 10
+    radeon
+    Конечно, российский спорт развращен
+    -----
+    Ню-ню. А можно список российских спортстменов, принимающих запрещенные вещества "по медицинским показаниям"? Типа, стероиды от астмы или метамфетамины от синрома дефицита внимания?
+    Раскрыть всю ветку (1 сообщений в ветке)
+    Ответить
+    11:25 07.12.2017 | 21
+    pushkin_a
+    Что такое Олимпиада?
+    Обычные соревнования.
+    И относиться надо к этому именно так.
+    Любой спортсмен принимает решение по допингу сам и это его проблемы.
+    Спорт давно уже не чист и родители, отдающие детей в профессионалы, знают об этом.
+    Так что теперь стонать-то?
+    Не смотрел, не смотрю и смотреть не буду.
+    Возьму лыжи и пойду с дочерями на горку!
+    Раскрыть всю ветку (1 сообщений в ветке)
+    Ответить
+    11:26 07.12.2017 | 2
+    Свет истины
+    «В рабовладельческом, феодальном, капиталистическом обществе спорт — это лишь разновидность гладиаторских боев, не более чем способ отвлечь массы от их классовых интересов, затмить зрелищами несправедливость в распределении хлеба.»
+    Ответить
+    11:29 07.12.2017 | 15
+    Donpedro
+    "...Журналист Бернард Левин (Bernard Levin) даже предложил, чтобы они состязались обнаженными, как в Древней Греции..."
+    Правильно, надо чтоб никто не знал откуда спортсмен, как его зовут. Просто приехал, победил, получил бабки и уехал...да и показывать тогда зачем, а болеть и подавно. Подумаешь, неизвестный голый астматик откуда-то кого-то победил в чем-то... Надо вернуться в древность...вернее в дремучесть.
+    Раскрыть всю ветку (5 сообщений в ветке)
+    Ответить
+    11:30 07.12.2017 | 5
+    shg200
+    А было бы прекрасно проводить Игры всегда в Греции и без такой дикой помпы.
+
+    Но строительное лобби порвёт попу на британский флаг, чтобы не допустить этого. Каждая Олимпиада - миллиарды, вкачиваемые в строительство. Кто ж откажется от такого жирного куска?
+    Раскрыть всю ветку (1 сообщений в ветке)
+    Ответить
+    11:42 07.12.2017
+    OlegAtorS
+    Все должны соревноваться в экоскелетах. Это намного зрелищней и интересней.
+    Ответить
+    11:42 07.12.2017 | -2
+    radeon
+    После прочтения статьи рождается вопрос относительно того, стоит ли автору и дальше курить то, что он курит.
+    Ответить
+    11:43 07.12.2017 | 3
+    voronov77
+    спортивным сообществам далеко до разврата пишущей братии,сплошная ложь и лицемерии,эти люди еще учат нас
+    Ответить
+    11:58 07.12.2017 | 8
+    madam.ibragimova-patya
+    Я думаю это начало больших перемен .Россия долго всегда запрягает .скоро и отвечать начнем так ,что мало не покажется
+    Ответить
+    11:58 07.12.2017 | 5
+    Добропыхатель
+    Всё автором свалено в одну кучу. Да, Олимпийские игры лживы по своей сути, ибо давно не имеют ничего общего со своими лозунгами. ЧМ по футболу честно заявляет о себе, как о спортивном шоу. Так же честны чемпионаты по хоккею и фигурному катанию.
+
+Ещё 10 сообщений
+
+    Добавить комментарий
+
+Популярное
+
+    Популярное
+    Обсуждаемое
+Россия сегодня
+
+    РИА Новости
+    ИноСМИ
+    ПРАЙМ
+    Р-Спорт
+    РИА Недвижимость
+    РИА Рейтинг
+
+ИноСМИ - Все, что достойно перевода
+FacebookVkTwitterTelegramВходРегистрация
+Политика
+Экономика
+Наука
+Война и ВПК
+Общество
+Все за сегодня
+Longread
+Мультимедиа
+Обзоры СМИ
+FacebookVkTwitterTelegram
+
+Общество
+derimotDerimot, Норвегия
+Владимир Путин на медведе
+© Carolyn Ann Geason
+Зашоренные исследования России
+Информационные войны
+
+07.12.20175114056
+Tweet
+Бьёрн Дитлеф Нистад (Bjørn Ditlef Nistad)
+
+1 декабря Норвежский институт внешней политики (NUPI) провел конференцию Competing Realities, участники которой обсуждали пропаганду и дезинформацию, используемые Россией для подрыва западных государств, а также историю пропагандистской деятельности российских властей. С профессиональной точки зрения конференция не вызвала особого интереса, зато интересно было наблюдать, насколько политизировано на Западе ведутся исследования России. Чтобы не сказать, что эти исследования ведутся зашоренно.
+
+
+Главной мыслью во всех выступлениях, как и ожидалось, было, что российские власти ведут пропагандистскую войну против Запада. Но поскольку каждый из внушительного числа выступающих мог говорить только 20 минут, то большинство участников вообще были не в состоянии произнести что-нибудь разумное.
+
+
+Для профессионалов эта конференция не представила никакого интереса. Тем не менее, она не была совсем бессмысленной, потому что показала, насколько политизированы исследования России на Западе и какие провалы мы можем найти в этих исследованиях.
+
+
+Растущий уровень жизни, появление среднего класса и большое количество личных компьютеров у населения вызовут рост оппозиции, которая свергнет путинский режим и сделает Россию «нормальной» страной, то есть копией западных стран. Это была одна из основных идей, которые за последние 10-15 лет высказываются на подобных конференциях, следующих одна за другой. Но насколько справедлива эта мысль?
+
+
+Почему экономический прогресс, растущий уровень жизни и многочисленные личные компьютеры точно так же не могут привести к тому, что население будет становиться все более националистическим и более отрицательно настроенным по отношению к западным якобы универсальным ценностям? Если посмотреть на такие страны, как Россия и Китай, то можно заметить много признаков того, что экономический прогресс ведет именно к национализму.
+
+
+Еще одна из идей конференции: попытки Запада распространить свои ценности на Россию — легитимны и отличаются от пропагандистской войны, которую Россия ведет против Запада. Почему они легитимны? Потому что распространение западных ценностей на Россию — самое большое благо для жителей России, в то время как цель российской пропаганды — уничтожение западных стран.
+
+
+Контекст
+Московский Кремль
+Кремлевские роли для ультраправых
+EurasiaNet06.12.2017
+США и Россия: новая холодная война
+La Croix06.12.2017
+Кого волнует, вступал ли Трамп в сговор с Россией?
+The Washington Post05.12.2017
+Эта патерналистская позиция всезнаек, безусловно характеризующая отношение Запада к остальному миру, основана на почти гегельянском понимании того, что у истории есть только один легитимный путь развития, а именно — светская, либеральная демократия западного типа. Конечно, это чушь. У истории нет смысла, данного Богом, и все народы имеют естественное право устраивать свою жизнь так, как сами этого хотят. Если русские хотят такого сильного лидера, традиционные ценности и запрет на марши гомосексуалистов, то это их собственное дело.
+
+
+Остальной мир не будет копией Запада. Наоборот, западные ценности все меньше и меньше будут влиять на этот мир, в то время как Россия, Китай, Иран и многие другие страны будут идти собственным путем.
+
+
+Является ли российская пропаганда, о которой говорилось на конференции, угрозой здоровому обществу?
+
+
+Российская пропаганда, тролли в интернете и тому подобное сами по себе не представляют никакого интереса. Интерес представляет то, что российская пропаганда говорит о нынешних западных государствах, если эта российская пропаганда и в самом деле является угрозой. Участникам конференции надо было бы задаться вопросом, что такое особенное есть у западных государств, что превращает русскую пропаганду в угрозу для них.
+
+
+Ответ ясен: Россия безусловно выигрывает существующую пропагандистскую войну по двум причинам:
+
+
+1) RT (ранее Russia Today), российский телевизионный канал, ориентированный на западную аудиторию, и другие российские СМИ выступают явно с небеспристрастных позиций. Их идеей является не «мы говорим тебе правду», а «это — российская версия, которую тебе следует послушать» и «истины не существует, все занимаются пропагандой». Во времена, когда большинство не верит СМИ — что уже само по себе многое говорит о кризисе западных государств, — это вызывает у большинства гораздо больше симпатий, чем заявления западных СМИ о том, что «мы говорим правду», «мы показываем тебе мир таким, каков он есть на самом деле» или «мы всегда тщательно следим за теми, кто находится у власти».
+
+
+2) Путин и российская элита, в отличие от западной элиты, выступают за другую общественную модель. Путин и российская элита — это националисты, которые руководствуются тем, что лучше для России. Либеральная западная элита, напротив, состоит из глобалистов, которые пытаются создать чудесный новый мир, разрушая существующие национальные государства.
+
+
+Проблема западной элиты состоит в том, что значительное большинство людей хотят жить спокойно и стабильно в мире, который не сильно отличается от того мира, в котором они выросли, в окружении людей, которые выглядят так же, как они, имеют такую же, как у них культуру, и которые поэтому протестуют против слома государства, в котором они живут, например, из-за миграции. Короче говоря, Россия выигрывает пропагандистскую войну, потому что национализм — это общественная модель, которая привлекательна гораздо больше, чем глобализм.
+
+
+Что демонизация Путина и России может сказать о нынешнем западном обществе? Почему западная элита боится Путина? Почему люди больше не доверяют западным СМИ? Что заставляет большое количество людей западных стран хвалить в интернете российского президента, когда он унижает западных политиков? Почему на Трампа, который, как и российский президент, является ярым антиглобалистом, нападают так же, как и на Путина? Было бы гораздо интереснее получить ответы на такие вопросы вместо того, чтобы охотиться на российские поддельные новости, троллей и т.п. Но такой институт, как NUPI, главной задачей которого является узаконить мировоззрение элиты глобалистов и их политические проекты, не может отвечать на такие вопросы.
+Оригинал публикации: Forblindet russlandsforskning
+Опубликовано 05/12/2017 14:31
+5114056
+Tweet
+Теги:
+
+    информационная войнанационализмполитикапропагандаНорвежский институт внешней политики (NUPI)Бьёрн Нистад (Bjørn Nistad)ЗападНорвегияРоссия
+
+Ссылки по теме:
+Слишком много спекуляций вокруг России
+Parlamentní listy05.12.2017
+Путин — причина провала России
+wPolityce05.12.2017
+Россия готовится к арктической войне
+Daily Star04.12.2017
+Зашоренные исследования России
+
+05:01 07/12/2017
+Владимир Путин на медведе
+Владимир Путин на медведе
+ГЛАВНОЕ НА ИноСМИПрезидент России Владимир Путин и президент МОК Томас Бах
+Российский спорт развращен, но Олимпиада тоже
+The Guardian logo
+The Guardian, Великобритания
+Сторонники оппозиционного политика Алексея Навального во время митинга на Болотной площади
+Армия Навального
+The Guardian logo
+The Guardian, Великобритания
+Владимир Путин на рождественской службе в одном из храмов Костромы
+Владимир Путин не такой русский, как кажется
+Foreign Policy logo
+Foreign Policy, США
+Всего комментариев:51
+Правила комментирования
+Обсуждение
+
+    Комментарий
+
+Все комментарии
+
+    Ответить
+    05:10 07.12.2017 | 7
+    Морпех
+    Довольно таки здравая статья для западного журналюги! Конечно есть и спорные моменты, но есть и моменты истинного понимания общей картинки мироустройства!
+    Раскрыть всю ветку (2 сообщений в ветке)
+    Ответить
+    05:15 07.12.2017 | 5
+    basco
+    Как же сложно им прорваться через нагромождения кала. Которое сами и соорудили. Бедные...
+    Ответить
+    05:33 07.12.2017 | 6
+    саныч
+    RT (ранее Russia Today), российский телевизионный канал, ориентированный на западную аудиторию, и другие российские СМИ выступают явно с небеспристрастных позиций
+    --------------------------------------------------------------------------------
+    То ли дело всякие СNN, Fox News и ВВС, объективные и непредвзятые источники информации.
+    Раскрыть всю ветку (3 сообщений в ветке)
+    Ответить
+    05:51 07.12.2017 | 2
+    Foxbat
+    Это еще сто лет назад было описано.. Не стану приводить доводы, лучше почитать классиков:
+    "Тэффи изд. 1912 г. "Дураки": На первый взгляд кажется, будто все понимают, что такое дурак, и почему дурак чем дурее, тем круглее.
+    Однако, если прислушаешься и приглядишься -- поймешь, как часто люди ошибаются, принимая за дурака самого обыкновенного глупого или бестолкового человека.
+    -- Вот дурак, -- говорят люди. -- Вечно у него пустяки в голове!
+    Они думают, что у дурака бывают когда-нибудь пустяки в голове!
+    В том-то и дело, что настоящий круглый дурак распознается, прежде всего, по своей величайшей и непоколебимейшей серьезности. Самый умный человек может быть ветреным и поступать необдуманно, -- дурак постоянно все обсуждает; обсудив, поступает соответственно и, поступив, знает, почему он сделал именно так, а не иначе.
+    Если вы сочтете дураком человека, поступающего безрассудно, вы сделаете такую ошибку, за которую вам потом всю жизнь будет совестно
+    Дурак не выносит никаких шероховатостей мысли, никаких невыясненных вопросов, никаких нерешенных проблем. Он давно уже все решил, понял и все знает. Он -- человек рассудительный и в каждом вопросе сведет концы с концами и каждую мысль закруглит.
+    При встрече с настоящим дураком человека охватывает какое-то мистическое отчаяние. Потому что дурак -- это зародыш конца мира. Человечество ищет, ставит вопросы, идет вперед, и это во всем: и в науке, и в искусстве, и в жизни, а дурак и вопроса-то никакого не видит.
+    -- Что такое? Какие там вопросы?
+    Сам он давно уже на все ответил и закруглился. В рассуждениях и закруглениях дураку служат опорой три аксиомы и один постулат. Аксиомы:
+    1) Здоровье дороже всего.
+    2) Были бы деньги.
+    3) С какой стати.
+    Постулат:
+    Так уж надо.
+    Где не помогают первые, там всегда вывезет последний."
+    Раскрыть всю ветку (1 сообщений в ветке)
+    Ответить
+    05:56 07.12.2017 | 5
+    маша_купина
+    Независимая позиция, а уж тем более ученого русиста, сейчас в скандинавии маргинализирована "мэйнстримом". Нистада там мало кто воспринимает всерьез, а общественное мнение формируется продажными политическими содержанками.
+    Ответить
+    06:15 07.12.2017 | 3
+    service_cbs
+    Бьёрн Дитлеф Нистад — доктор исторических наук, автор более 10-ти монографий и множества статей. Он занимает «левую» позицию и считает своим долгом доводить до норвежского и датского читателя правду о России и Украине.
+    Ответить
+    06:22 07.12.2017 | 1
+    AlexMikhaylov
+    Этим фото можно любоваться вечно...
+    Раскрыть всю ветку (4 сообщений в ветке)
+    Ответить
+    06:24 07.12.2017 | 3
+    ЭР
+    ...о "нынешних западных государствах" вообще лучше молчать как о покойниках...
+    Раскрыть всю ветку (1 сообщений в ветке)
+    Ответить
+    07:22 07.12.2017 | 4
+    0ncnjqybr
+    "Путин и российская элита — это националисты, которые руководствуются тем, что лучше для России. "
+
+    Мне бы тоже хотелось так думать.
+    Ответить
+    07:49 07.12.2017 | 2
+    leoirk
+    Интересно. Хоть один Либераст возразит этому норвежцу-зраднику.
+    Раскрыть всю ветку (5 сообщений в ветке)
+
+Ещё 10 сообщений
+
+    Добавить комментарий
+
+Популярное
+
+    Популярное
+    Обсуждаемое
+
+Российский спорт развращен, но Олимпиада тоже
+07.12.2017
+The Guardian, Великобритания
+Путинские корветы-убийцы
+07.12.2017
+Bild, Германия
+Путин хочет победить, но не любой ценой
+07.12.2017
+Bloomberg, США
+Почему западная элита боится Путина?
+07.12.2017
+Derimot, Норвегия
+Все статьи
+
+Российский спорт развращен, но Олимпиада тоже
+07.12.2017
+The Guardian, Великобритания
+Путинские корветы-убийцы
+07.12.2017
+Bild, Германия
+Путин хочет победить, но не любой ценой
+07.12.2017
+Bloomberg, США
+Почему западная элита боится Путина?
+07.12.2017
+Derimot, Норвегия
+Все статьи
+Каталог изданийО проектеРекламодателямПолитика конфиденциальности
+ПолитикаЭкономикаНаукаВоенное делоОбществоМультимедиа
+Предложить статьюВсе за сегодняФорум
+
+© ИноСМИ.ru 2000-2017
+Все права защищены и охраняются законом.
+При полном или частичном использовании материалов ссылка на ИноСМИ.Ru обязательна (в интернете — гиперссылка).
+Настоящий ресурс может содержать материалы 18+
+Сетевое издание «Интернет-проект «ИноСМИ.RU» зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций 08 апреля 2014 г. Свидетельство о регистрации Эл № ФС77-57642
+Адрес электронной почты редакции: info@inosmi.ru.
+Загрузите в App StoreЧитайте на Google Play
+Рейтинг@Mail.ru
